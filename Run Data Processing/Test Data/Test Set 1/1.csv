@@ -1,0 +1,563 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,QID127,QID1216457205,QID87,QID1216457206,QID88,QID1216457207,QID1216457211,QID91,QID1216457212,QID1216457208,QID89,QID1216457209,QID1216457210,QID1216457213,Showup_Fee,Comprehension_Payment,Mason G#,Rand_Scenario_1,Rand_Scenario_3,Rand_Scenario_2,Comprehension_Overview_Correct,Comprehension_Scenario_1_DG_Correct,Comprehension_Scenario_2_TG_Correct,Comprehension_Scenario_3_PD_Correct,Dictator_Game_Choice,Prisoners_Dilemma_Choice,Trust_Game_P1_Investor_Choice,Trust_Game_P2_Trustee_Choice,Attention_Check_Correct
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Your Mason G# will be used to link your participation in Parts 1 and 2. Your G# will not be used for any other type of identification and will be deleted from our data after you complete Part 2 of the experiment.
+
+
+
+Please enter your Mason G# (e.g., G12345678):","Instructions
+ 
+
+Please read these instructions carefully. You may earn an additional payment of [Field-Comprehension_Payment] for each question about the instructions that you correctly answer. You will have two attempts for each question.
+
+
+
+In this online experiment, there are three scenarios. Each scenario involves two participants: you, and one other participant that you will be randomly grouped with. Because there are three scenarios, you may be grouped with three other unique participants. You will never learn any information about the identity of your group members for any scenario, such as their name, age, or gender.
+
+
+For each scenario, you and the other participant will be randomly assigned the roles of Player 1 or Player 2. Since you may be assigned either role, you will be asked to make decisions for all scenarios in which you could be Player 1 or Player 2. These decisions will influence the payoffs received by both you and the other participant.
+
+
+
+At the end of the study, one of the three scenarios will be randomly selected for implementation and payment purposes. The decisions you made in the randomly-selected scenario will determine your and the other participant’s payoffs.
+
+
+
+Comprehension Question
+
+You may only proceed once you answer the question correctly.
+
+According to the instructions above, which statement below is true? Select only one answer.","Please check your answer and try again.
+
+
+Instructions
+
+
+
+Please read these instructions carefully. You will be asked questions to confirm that you have read the instructions.
+
+
+
+In this online experiment, there are three scenarios. Each scenario involves two participants: you, and one other participant that you will be randomly grouped with. Because there are three scenarios, you may be grouped with three other unique participants. You will never learn any information about the identity of your group members for any scenario, such as their name, age, or gender.
+
+
+
+For each scenario, you and the other participant will be randomly assigned the roles of Player 1 or Player 2. Since you may be assigned either role, you will be asked to make decisions for all scenarios in which you could be Player 1 or Player 2. These decisions will influence the payoffs received by both you and the other participant.
+
+
+
+At the end of the study, one of the three scenarios will be randomly selected for implementation and payment purposes. The decisions you made in the randomly-selected scenario will determine your and the other participant’s payoffs.
+
+
+
+Comprehension Question
+
+You may only proceed once you answer the question correctly.
+
+According to the instructions above, which statement below is true? Select only one answer.","Scenario [Field-Rand_Scenario_1]: Instructions
+
+
+
+Consider a scenario in which Player 1 can either ""keep more"" money for themselves or ""split"" money between themselves and Player 2.
+
+
+	
+	If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.
+	
+	
+	If Player 1 splits, Player 1 receives $5 and Player 2 receives $5.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Please check your answer and try again.
+
+
+
+Scenario [Field-Rand_Scenario_1]: Instructions
+
+
+Consider a scenario in which Player 1 can either ""keep more"" money for themselves or ""split"" money between themselves and Player 2.
+
+
+	
+	If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.
+	
+	
+	If Player 1 splits, Player 1 receives $5 and Player 2 receives $5.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Scenario [Field-Rand_Scenario_1]: Player 1 Choice
+
+
+
+Please make the following decision as Player 1 in this scenario.
+
+
+	
+	If Player 1 keeps more, Player 1 receive $10 and Player 2 receives $0.
+	
+	
+	If Player 1 splits, Player 1 receive $5 and Player 2 receives $5.
+	
+
+
+
+
+Given that you receive a higher payoff by keeping more, what do you want to do?","Scenario [Field-Rand_Scenario_3]: Instructions
+
+
+
+Consider a scenario in which both Player 1 and Player 2 can either ""cooperate"" or ""defect.""
+
+
+	
+	If Player 1 defects and Player 2 defects, Player 1 receives $4 and Player 2 receives $4.
+	
+	
+	If Player 1 defects and Player 2 cooperates, Player 1 receives $7 and Player 2 dollars $3.
+	
+	
+	If Player 1 cooperates and Player 2 defects, Player 1 receives $3 and Player 2 receives $7.
+	
+	
+	If Player 1 cooperates and Player 2 cooperates, Player 1 receives $6 and Player 2 receives $6.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Please check your answer and try again.
+
+
+
+Scenario [Field-Rand_Scenario_3]: Instructions
+
+
+Consider a scenario in which both Player 1 and Player 2 can either ""cooperate"" or ""defect.""
+
+
+	
+	If Player 1 defects and Player 2 defects, Player 1 receives $4 and Player 2 receives $4.
+	
+	
+	If Player 1 defects and Player 2 cooperates, Player 1 receives $7 and Player 2 dollars $3.
+	
+	
+	If Player 1 cooperates and Player 2 defects, Player 1 receives $3 and Player 2 receives $7.
+	
+	
+	If Player 1 cooperates and Player 2 cooperates, Player 1 receives $6 and Player 2 receives $6.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Scenario [Field-Rand_Scenario_3]: Player 1 Choice
+
+
+
+Please make the following decision as Player 1 in this scenario.
+
+
+	
+	If Player 1 defects and Player 2 defects, Player 1 receives $4 and Player 2 receives $4.
+	
+	
+	If Player 1 defects and Player 2 cooperates, Player 1 receives $7 and Player 2 receives $3.
+	
+	
+	If Player 1 cooperates and Player 2 defects, Player 1 receives $3 and Player 2 receives $7.
+	
+	
+	If Player 1 cooperates and Player 2 cooperates, Player 1 receives $6 and Player 2 receives $6.
+	
+
+
+
+
+Given that you receive a higher payoff by defecting, what do you want to do?","Scenario [Field-Rand_Scenario_2]: Instructions
+
+
+
+Consider a scenario in which Player 1 can either ""trust"" or ""distrust"" Player 2. If Player 1 trusts Player 2, Player 2 can either ""reward"" or ""punish"" Player 1's trust.
+
+
+	
+	If Player 1 distrusts Player 2, Player 1 receives $5 and Player 2 receives $0.
+	
+	
+	If Player 1 trusts and Player 2 rewards their trust, Player 1 receives $7 and Player 2 receives $8.
+	
+	
+	If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Please check your answer and try again.
+
+ 
+
+Scenario [Field-Rand_Scenario_2]: Instructions
+
+ 
+
+Consider a scenario in which Player 1 can either ""trust"" or ""distrust"" Player 2. If Player 1 trusts Player 2, Player 2 can either ""reward"" or ""punish"" Player 1's trust.
+
+
+	
+	If Player 1 distrusts Player 2, Player 1 receives $10 and Player 2 receives $0.
+	
+	
+	If Player 1 trusts and Player 2 rewards their trust, Player 1 receives $10 and Player 2 receives $10.
+	
+	
+	If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $0 and Player 2 receives $20.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Scenario [Field-Rand_Scenario_2]: Player 2 Choice
+
+
+
+Given that Player 1 chose to ""trust"" Player 2, please make the following decision as Player 2 in this scenario.
+
+
+	
+	If Player 1 trusts and Player 2 rewards their trust, Player 1 receives $7 and Player 2 receives $8.
+	
+	
+	If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.
+	
+
+
+
+
+Given that you receive a higher payoff by punishing, what do you want to do?","Scenario [Field-Rand_Scenario_2]: Player 1 Choice
+
+
+
+Please make the following decision as Player 1 in this scenario.
+
+	If Player 1 distrusts Player 2, Player 1 receives $5 and Player 2 receives $0.
+	If Player 1 trusts and Player 2 rewards their trust, Player 1 receives $7 and Player 2 receives $8.
+	If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.
+
+
+
+Given that you eliminate risk of punishment by distrusting, what do you want to do?","End of Part 1
+
+ 
+
+Data quality is important. We would like to know whether you are still paying attention rather than just clicking “Continue.” Please now choose the second option from the list (twenty-one to forty percent) and ignore the question below.
+
+ 
+What is the share?",Showup_Fee,Comprehension_Payment,Mason G#,Rand_Scenario_1,Rand_Scenario_3,Rand_Scenario_2,Comprehension_Overview_Correct,Comprehension_Scenario_1_DG_Correct,Comprehension_Scenario_2_TG_Correct,Comprehension_Scenario_3_PD_Correct,Dictator_Game_Choice,Prisoners_Dilemma_Choice,Trust_Game_P1_Investor_Choice,Trust_Game_P2_Trustee_Choice,Attention_Check_Correct
+"{""ImportId"":""startDate"",""timeZone"":""America/New_York""}","{""ImportId"":""endDate"",""timeZone"":""America/New_York""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/New_York""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID127_TEXT""}","{""ImportId"":""QID1216457205""}","{""ImportId"":""QID87""}","{""ImportId"":""QID1216457206""}","{""ImportId"":""QID88""}","{""ImportId"":""QID1216457207""}","{""ImportId"":""QID1216457211""}","{""ImportId"":""QID91""}","{""ImportId"":""QID1216457212""}","{""ImportId"":""QID1216457208""}","{""ImportId"":""QID89""}","{""ImportId"":""QID1216457209""}","{""ImportId"":""QID1216457210""}","{""ImportId"":""QID1216457213""}","{""ImportId"":""Showup_Fee""}","{""ImportId"":""Comprehension_Payment""}","{""ImportId"":""Mason G#""}","{""ImportId"":""Rand_Scenario_1""}","{""ImportId"":""Rand_Scenario_3""}","{""ImportId"":""Rand_Scenario_2""}","{""ImportId"":""Comprehension_Overview_Correct""}","{""ImportId"":""Comprehension_Scenario_1_DG_Correct""}","{""ImportId"":""Comprehension_Scenario_2_TG_Correct""}","{""ImportId"":""Comprehension_Scenario_3_PD_Correct""}","{""ImportId"":""Dictator_Game_Choice""}","{""ImportId"":""Prisoners_Dilemma_Choice""}","{""ImportId"":""Trust_Game_P1_Investor_Choice""}","{""ImportId"":""Trust_Game_P2_Trustee_Choice""}","{""ImportId"":""Attention_Check_Correct""}"
+9/27/2024 19:55,9/27/2024 19:56,IP Address,149.88.108.5,100,32,TRUE,9/27/2024 19:56,R_6fTTS5rykXsNOrP,,,,,42.3562,-71.0631,anonymous,EN,G1,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Split,"If Player 2 defects, Player 1 receives more by defecting.
+",,Cooperate,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Reward,Trust,21 - 40%,$10 ,$0.50 ,G1,A,B,C,1,1,1,1,Split,Cooperate,Trust,Reward,1
+9/27/2024 19:58,9/27/2024 19:59,IP Address,149.88.108.5,100,32,TRUE,9/27/2024 19:59,R_3r1U3wRgI63akHM,,,,,42.3562,-71.0631,anonymous,EN,G2,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Split,"If both Player 1 and Player 2 cooperate, both receive $4.","If both Player 1 and Player 2 cooperate, both receive $4.",Cooperate,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Reward,Trust,41 - 60%,$10 ,$0.50 ,G2,B,A,C,1,1,1,,Split,Cooperate,Trust,Reward,
+45563.13258,45563.13296,IP Address,149.88.108.5,100,112,TRUE,45563.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5892700,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G5892700,C,B,A,,,1,1,Keep more,Defect,Distrust,Reward,1
+45563.43258,45563.43296,IP Address,149.88.108.5,100,193,TRUE,45564.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1120278,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G1120278,C,A,B,,1,1,1,Split,Defect,Distrust,Punish,1
+45563.73258,45563.73296,IP Address,149.88.108.5,100,138,TRUE,45565.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5201091,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G5201091,A,B,C,1,,,1,Keep more,Cooperate,Trust,Reward,1
+45564.03258,45564.03296,IP Address,149.88.108.5,100,166,TRUE,45566.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4062953,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G4062953,A,C,B,,,1,,Split,Defect,Distrust,Punish,1
+45564.33258,45564.33296,IP Address,149.88.108.5,100,158,TRUE,45567.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4818103,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G4818103,C,B,A,,,1,,Keep more,Defect,Distrust,Punish,1
+45564.63258,45564.63296,IP Address,149.88.108.5,100,229,TRUE,45568.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4423848,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G4423848,C,A,B,,,,,Split,Defect,Distrust,Punish,
+45564.93258,45564.93296,IP Address,149.88.108.5,100,144,TRUE,45569.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3763769,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G3763769,C,B,A,1,1,1,,Split,Defect,Trust,Punish,1
+45565.23258,45565.23296,IP Address,149.88.108.5,100,199,TRUE,45570.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1382055,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G1382055,C,A,B,1,1,,1,Keep more,Defect,Trust,Reward,
+45565.53258,45565.53296,IP Address,149.88.108.5,100,14,TRUE,45571.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4663124,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G4663124,B,A,C,1,,,,Keep more,Cooperate,Distrust,Reward,
+45565.83258,45565.83296,IP Address,149.88.108.5,100,193,TRUE,45572.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7836173,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G7836173,A,C,B,,1,1,,Keep more,Defect,Trust,Reward,1
+45566.13258,45566.13296,IP Address,149.88.108.5,100,104,TRUE,45573.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3972993,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G3972993,C,A,B,1,1,1,,Keep more,Defect,Trust,Reward,1
+45566.43258,45566.43296,IP Address,149.88.108.5,100,337,TRUE,45574.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5040542,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G5040542,A,C,B,,,1,1,Keep more,Defect,Trust,Punish,1
+45566.73258,45566.73296,IP Address,149.88.108.5,100,309,TRUE,45575.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4016231,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G4016231,C,A,B,,1,1,1,Split,Defect,Distrust,Reward,
+45567.03258,45567.03296,IP Address,149.88.108.5,100,30,TRUE,45576.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6304057,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G6304057,C,B,A,1,,,1,Keep more,Cooperate,Distrust,Reward,
+45567.33258,45567.33296,IP Address,149.88.108.5,100,19,TRUE,45577.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5256431,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G5256431,A,B,C,1,1,1,1,Keep more,Cooperate,Trust,Reward,1
+45567.63258,45567.63296,IP Address,149.88.108.5,100,346,TRUE,45578.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7040080,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G7040080,A,B,C,,,1,1,Split,Cooperate,Trust,Reward,
+45567.93258,45567.93296,IP Address,149.88.108.5,100,184,TRUE,45579.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5413691,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G5413691,C,B,A,1,,,1,Split,Cooperate,Trust,Punish,
+45568.23258,45568.23296,IP Address,149.88.108.5,100,67,TRUE,45580.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6482329,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G6482329,A,C,B,,1,,,Keep more,Defect,Trust,Punish,
+45568.53258,45568.53296,IP Address,149.88.108.5,100,129,TRUE,45581.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2270024,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G2270024,B,C,A,,,,,Split,Defect,Distrust,Reward,1
+45568.83258,45568.83296,IP Address,149.88.108.5,100,253,TRUE,45582.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9673091,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G9673091,A,B,C,,1,1,1,Split,Defect,Distrust,Punish,1
+45569.13258,45569.13296,IP Address,149.88.108.5,100,118,TRUE,45583.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1043225,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G1043225,C,B,A,,1,1,,Keep more,Defect,Distrust,Punish,1
+45569.43258,45569.43296,IP Address,149.88.108.5,100,21,TRUE,45584.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6865060,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G6865060,C,A,B,,1,1,,Keep more,Cooperate,Trust,Reward,
+45569.73258,45569.73296,IP Address,149.88.108.5,100,290,TRUE,45585.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8954709,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G8954709,A,B,C,,,,1,Split,Cooperate,Distrust,Reward,1
+45570.03258,45570.03296,IP Address,149.88.108.5,100,123,TRUE,45586.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8467218,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G8467218,B,A,C,1,1,,,Keep more,Defect,Trust,Reward,
+45570.33258,45570.33296,IP Address,149.88.108.5,100,200,TRUE,45587.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8043734,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G8043734,A,C,B,,1,,1,Split,Cooperate,Trust,Reward,1
+45570.63258,45570.63296,IP Address,149.88.108.5,100,104,TRUE,45588.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7330365,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G7330365,A,B,C,,1,1,,Split,Cooperate,Trust,Reward,
+45570.93258,45570.93296,IP Address,149.88.108.5,100,186,TRUE,45589.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8084992,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G8084992,B,C,A,,1,1,1,Keep more,Cooperate,Distrust,Punish,
+45571.23258,45571.23296,IP Address,149.88.108.5,100,209,TRUE,45590.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9031118,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G9031118,C,B,A,1,1,1,1,Keep more,Cooperate,Distrust,Punish,
+45571.53258,45571.53296,IP Address,149.88.108.5,100,33,TRUE,45591.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4169873,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G4169873,C,B,A,1,,,1,Keep more,Defect,Trust,Punish,
+45571.83258,45571.83296,IP Address,149.88.108.5,100,247,TRUE,45592.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6671384,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G6671384,C,B,A,,1,,,Keep more,Cooperate,Trust,Reward,
+45572.13258,45572.13296,IP Address,149.88.108.5,100,43,TRUE,45593.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5257248,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G5257248,A,B,C,1,1,1,,Split,Cooperate,Trust,Reward,
+45572.43258,45572.43296,IP Address,149.88.108.5,100,72,TRUE,45594.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1298481,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G1298481,C,B,A,1,1,,1,Split,Defect,Trust,Punish,
+45572.73258,45572.73296,IP Address,149.88.108.5,100,300,TRUE,45595.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4185310,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G4185310,C,A,B,,,1,,Split,Cooperate,Distrust,Punish,
+45573.03258,45573.03296,IP Address,149.88.108.5,100,97,TRUE,45596.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4745218,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G4745218,C,A,B,,,1,,Split,Cooperate,Trust,Reward,
+45573.33258,45573.33296,IP Address,149.88.108.5,100,108,TRUE,45597.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5539188,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G5539188,A,B,C,,1,,,Keep more,Defect,Distrust,Punish,1
+45573.63258,45573.63296,IP Address,149.88.108.5,100,340,TRUE,45598.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3771015,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G3771015,A,C,B,,1,,1,Keep more,Defect,Distrust,Reward,1
+45573.93258,45573.93296,IP Address,149.88.108.5,100,48,TRUE,45599.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5926750,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G5926750,B,C,A,,1,,1,Split,Defect,Trust,Reward,1
+45574.23258,45574.23296,IP Address,149.88.108.5,100,115,TRUE,45600.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9365883,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G9365883,B,C,A,1,1,1,,Keep more,Defect,Trust,Punish,1
+45574.53258,45574.53296,IP Address,149.88.108.5,100,268,TRUE,45601.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1190511,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G1190511,A,C,B,1,,1,1,Split,Defect,Distrust,Reward,1
+45574.83258,45574.83296,IP Address,149.88.108.5,100,235,TRUE,45602.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3423609,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G3423609,A,C,B,1,,,1,Split,Cooperate,Distrust,Punish,
+45575.13258,45575.13296,IP Address,149.88.108.5,100,293,TRUE,45603.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7923892,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G7923892,A,C,B,1,,,1,Split,Cooperate,Trust,Reward,
+45575.43258,45575.43296,IP Address,149.88.108.5,100,177,TRUE,45604.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2238095,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G2238095,B,A,C,1,,1,,Split,Cooperate,Distrust,Reward,
+45575.73258,45575.73296,IP Address,149.88.108.5,100,86,TRUE,45605.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8682717,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G8682717,B,A,C,,1,1,1,Keep more,Defect,Distrust,Reward,
+45576.03258,45576.03296,IP Address,149.88.108.5,100,50,TRUE,45606.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4857259,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G4857259,C,B,A,1,,1,1,Keep more,Cooperate,Distrust,Reward,1
+45576.33258,45576.33296,IP Address,149.88.108.5,100,234,TRUE,45607.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8207183,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G8207183,A,C,B,,,1,1,Split,Defect,Trust,Punish,1
+45576.63258,45576.63296,IP Address,149.88.108.5,100,333,TRUE,45608.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1264476,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G1264476,C,B,A,,,1,1,Keep more,Cooperate,Trust,Punish,
+45576.93258,45576.93296,IP Address,149.88.108.5,100,267,TRUE,45609.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5273195,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G5273195,A,B,C,1,1,,1,Split,Cooperate,Trust,Punish,1
+45577.23258,45577.23296,IP Address,149.88.108.5,100,160,TRUE,45610.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6378775,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G6378775,C,A,B,,,1,,Keep more,Defect,Trust,Reward,
+45577.53258,45577.53296,IP Address,149.88.108.5,100,192,TRUE,45611.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3038446,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G3038446,A,C,B,1,1,,,Split,Cooperate,Distrust,Punish,
+45577.83258,45577.83296,IP Address,149.88.108.5,100,43,TRUE,45612.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8938465,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G8938465,C,A,B,1,,,1,Keep more,Defect,Distrust,Punish,1
+45578.13258,45578.13296,IP Address,149.88.108.5,100,161,TRUE,45613.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2275675,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G2275675,C,A,B,,,,,Keep more,Defect,Distrust,Punish,1
+45578.43258,45578.43296,IP Address,149.88.108.5,100,160,TRUE,45614.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1767131,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G1767131,C,A,B,,1,1,1,Keep more,Cooperate,Distrust,Reward,1
+45578.73258,45578.73296,IP Address,149.88.108.5,100,157,TRUE,45615.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6019365,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G6019365,B,A,C,1,1,1,,Keep more,Defect,Distrust,Reward,1
+45579.03258,45579.03296,IP Address,149.88.108.5,100,317,TRUE,45616.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4719083,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G4719083,C,A,B,1,,,1,Split,Cooperate,Distrust,Punish,1
+45579.33258,45579.33296,IP Address,149.88.108.5,100,219,TRUE,45617.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1270013,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G1270013,B,A,C,1,1,1,1,Split,Cooperate,Distrust,Punish,1
+45579.63258,45579.63296,IP Address,149.88.108.5,100,252,TRUE,45618.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7907674,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G7907674,B,C,A,,,1,1,Split,Defect,Trust,Reward,
+45579.93258,45579.93296,IP Address,149.88.108.5,100,278,TRUE,45619.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1647951,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G1647951,A,B,C,1,,,1,Keep more,Defect,Trust,Punish,
+45580.23258,45580.23296,IP Address,149.88.108.5,100,33,TRUE,45620.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7388666,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G7388666,C,B,A,1,1,1,,Keep more,Cooperate,Trust,Punish,1
+45580.53258,45580.53296,IP Address,149.88.108.5,100,219,TRUE,45621.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4839658,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G4839658,A,C,B,1,1,,,Keep more,Defect,Distrust,Punish,
+45580.83258,45580.83296,IP Address,149.88.108.5,100,347,TRUE,45622.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1882184,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G1882184,A,C,B,,1,,1,Keep more,Cooperate,Distrust,Reward,1
+45581.13258,45581.13296,IP Address,149.88.108.5,100,241,TRUE,45623.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6304220,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G6304220,B,C,A,1,1,1,,Split,Cooperate,Distrust,Reward,
+45581.43258,45581.43296,IP Address,149.88.108.5,100,26,TRUE,45624.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5742713,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G5742713,C,B,A,1,1,1,,Keep more,Defect,Distrust,Punish,1
+45581.73258,45581.73296,IP Address,149.88.108.5,100,311,TRUE,45625.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6779504,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G6779504,C,B,A,,1,1,,Keep more,Defect,Trust,Reward,1
+45582.03258,45582.03296,IP Address,149.88.108.5,100,206,TRUE,45626.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1276789,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G1276789,C,B,A,1,1,,,Split,Cooperate,Trust,Reward,
+45582.33258,45582.33296,IP Address,149.88.108.5,100,209,TRUE,45627.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1927527,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G1927527,C,B,A,1,1,1,1,Keep more,Defect,Distrust,Reward,
+45582.63258,45582.63296,IP Address,149.88.108.5,100,256,TRUE,45628.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2625236,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G2625236,C,B,A,1,1,,1,Split,Defect,Trust,Punish,
+45582.93258,45582.93296,IP Address,149.88.108.5,100,205,TRUE,45629.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3185915,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G3185915,A,C,B,1,1,1,,Keep more,Cooperate,Distrust,Reward,
+45583.23258,45583.23296,IP Address,149.88.108.5,100,286,TRUE,45630.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2644923,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G2644923,C,B,A,1,1,1,1,Keep more,Cooperate,Distrust,Punish,1
+45583.53258,45583.53296,IP Address,149.88.108.5,100,228,TRUE,45631.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2503746,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G2503746,B,A,C,,,1,,Split,Defect,Distrust,Punish,1
+45583.83258,45583.83296,IP Address,149.88.108.5,100,155,TRUE,45632.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4077123,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G4077123,C,B,A,1,,,,Split,Defect,Distrust,Punish,
+45584.13258,45584.13296,IP Address,149.88.108.5,100,38,TRUE,45633.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5766792,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G5766792,A,C,B,,1,,,Split,Cooperate,Distrust,Reward,1
+45584.43258,45584.43296,IP Address,149.88.108.5,100,169,TRUE,45634.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9241120,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G9241120,A,B,C,1,1,,,Keep more,Cooperate,Distrust,Reward,
+45584.73258,45584.73296,IP Address,149.88.108.5,100,255,TRUE,45635.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2588314,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G2588314,C,B,A,1,,,1,Keep more,Defect,Distrust,Reward,1
+45585.03258,45585.03296,IP Address,149.88.108.5,100,293,TRUE,45636.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4303325,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G4303325,C,A,B,1,,1,,Keep more,Defect,Trust,Reward,1
+45585.33258,45585.33296,IP Address,149.88.108.5,100,39,TRUE,45637.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2395802,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G2395802,B,C,A,,,1,,Split,Defect,Trust,Reward,
+45585.63258,45585.63296,IP Address,149.88.108.5,100,199,TRUE,45638.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8782686,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G8782686,C,A,B,,,1,,Split,Defect,Distrust,Punish,1
+45585.93258,45585.93296,IP Address,149.88.108.5,100,234,TRUE,45639.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9614928,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G9614928,A,C,B,1,1,,,Split,Cooperate,Distrust,Reward,
+45586.23258,45586.23296,IP Address,149.88.108.5,100,219,TRUE,45640.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3770503,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G3770503,B,C,A,1,,1,1,Split,Cooperate,Trust,Punish,1
+45586.53258,45586.53296,IP Address,149.88.108.5,100,161,TRUE,45641.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5749829,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G5749829,C,B,A,,,,,Keep more,Defect,Trust,Reward,1
+45586.83258,45586.83296,IP Address,149.88.108.5,100,81,TRUE,45642.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7857117,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G7857117,A,B,C,,,1,,Split,Defect,Distrust,Punish,1
+45587.13258,45587.13296,IP Address,149.88.108.5,100,114,TRUE,45643.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9770132,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G9770132,A,C,B,,,1,1,Keep more,Defect,Trust,Reward,
+45587.43258,45587.43296,IP Address,149.88.108.5,100,87,TRUE,45644.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5887186,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G5887186,B,A,C,,,,,Split,Cooperate,Distrust,Punish,1
+45587.73258,45587.73296,IP Address,149.88.108.5,100,334,TRUE,45645.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4333844,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G4333844,B,C,A,1,,,1,Split,Defect,Trust,Punish,
+45588.03258,45588.03296,IP Address,149.88.108.5,100,17,TRUE,45646.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6555461,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G6555461,A,C,B,1,,,,Keep more,Cooperate,Distrust,Punish,
+45588.33258,45588.33296,IP Address,149.88.108.5,100,89,TRUE,45647.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2146099,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G2146099,B,A,C,1,,1,1,Keep more,Cooperate,Distrust,Punish,
+45588.63258,45588.63296,IP Address,149.88.108.5,100,147,TRUE,45648.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8779760,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G8779760,C,B,A,1,,1,,Split,Defect,Distrust,Reward,1
+45588.93258,45588.93296,IP Address,149.88.108.5,100,307,TRUE,45649.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3828805,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G3828805,C,A,B,1,1,1,1,Split,Defect,Trust,Punish,
+45589.23258,45589.23296,IP Address,149.88.108.5,100,116,TRUE,45650.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9999313,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G9999313,C,A,B,1,1,,,Split,Cooperate,Trust,Reward,1
+45589.53258,45589.53296,IP Address,149.88.108.5,100,197,TRUE,45651.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9984428,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G9984428,A,C,B,,1,1,,Split,Defect,Distrust,Punish,
+45589.83258,45589.83296,IP Address,149.88.108.5,100,119,TRUE,45652.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8488258,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G8488258,C,A,B,,1,1,,Split,Defect,Distrust,Punish,
+45590.13258,45590.13296,IP Address,149.88.108.5,100,144,TRUE,45653.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2368144,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G2368144,B,A,C,1,1,,,Split,Cooperate,Trust,Punish,1
+45590.43258,45590.43296,IP Address,149.88.108.5,100,273,TRUE,45654.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8700811,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G8700811,C,B,A,1,1,,,Split,Defect,Distrust,Punish,
+45590.73258,45590.73296,IP Address,149.88.108.5,100,193,TRUE,45655.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3480357,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G3480357,A,B,C,1,1,1,1,Split,Defect,Distrust,Reward,
+45591.03258,45591.03296,IP Address,149.88.108.5,100,199,TRUE,45656.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8330926,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G8330926,B,C,A,,1,,1,Split,Cooperate,Distrust,Reward,1
+45591.33258,45591.33296,IP Address,149.88.108.5,100,90,TRUE,45657.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5337896,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G5337896,B,C,A,1,1,,,Keep more,Defect,Distrust,Punish,1
+45591.63258,45591.63296,IP Address,149.88.108.5,100,25,TRUE,45658.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2629199,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G2629199,A,B,C,,,,,Split,Cooperate,Distrust,Reward,1
+45591.93258,45591.93296,IP Address,149.88.108.5,100,298,TRUE,45659.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7695607,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G7695607,A,C,B,1,,,,Split,Defect,Distrust,Punish,1
+45592.23258,45592.23296,IP Address,149.88.108.5,100,53,TRUE,45660.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1134193,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G1134193,B,A,C,1,,1,1,Split,Defect,Trust,Punish,
+45592.53258,45592.53296,IP Address,149.88.108.5,100,125,TRUE,45661.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1205142,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G1205142,A,C,B,1,1,,,Keep more,Defect,Trust,Punish,1
+45592.83258,45592.83296,IP Address,149.88.108.5,100,137,TRUE,45662.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4523703,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G4523703,C,B,A,,,,,Keep more,Defect,Trust,Reward,1
+45593.13258,45593.13296,IP Address,149.88.108.5,100,354,TRUE,45663.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5401023,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G5401023,C,A,B,1,1,1,,Split,Defect,Distrust,Punish,
+45593.43258,45593.43296,IP Address,149.88.108.5,100,283,TRUE,45664.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6899479,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G6899479,C,A,B,,,1,,Keep more,Defect,Trust,Reward,
+45593.73258,45593.73296,IP Address,149.88.108.5,100,328,TRUE,45665.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3241479,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G3241479,A,C,B,,1,,1,Split,Defect,Distrust,Reward,1
+45594.03258,45594.03296,IP Address,149.88.108.5,100,305,TRUE,45666.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1022224,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G1022224,B,C,A,,,,1,Keep more,Defect,Trust,Reward,1
+45594.33258,45594.33296,IP Address,149.88.108.5,100,149,TRUE,45667.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3641532,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G3641532,C,B,A,,,1,1,Keep more,Cooperate,Trust,Punish,
+45594.63258,45594.63296,IP Address,149.88.108.5,100,225,TRUE,45668.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5075210,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G5075210,A,C,B,,,1,,Keep more,Cooperate,Distrust,Punish,1
+45594.93258,45594.93296,IP Address,149.88.108.5,100,50,TRUE,45669.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2298893,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G2298893,B,A,C,1,,,1,Split,Cooperate,Distrust,Reward,
+45595.23258,45595.23296,IP Address,149.88.108.5,100,133,TRUE,45670.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8439394,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G8439394,C,A,B,1,,,,Keep more,Defect,Distrust,Punish,
+45595.53258,45595.53296,IP Address,149.88.108.5,100,172,TRUE,45671.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6459570,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G6459570,A,B,C,,1,,,Keep more,Defect,Distrust,Punish,
+45595.83258,45595.83296,IP Address,149.88.108.5,100,281,TRUE,45672.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3500905,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G3500905,C,A,B,,1,,1,Keep more,Defect,Distrust,Reward,1
+45596.13258,45596.13296,IP Address,149.88.108.5,100,274,TRUE,45673.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3324849,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G3324849,A,B,C,,,,,Keep more,Cooperate,Distrust,Reward,
+45596.43258,45596.43296,IP Address,149.88.108.5,100,221,TRUE,45674.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7605024,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G7605024,B,A,C,,,,1,Split,Defect,Trust,Punish,
+45596.73258,45596.73296,IP Address,149.88.108.5,100,138,TRUE,45675.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2626587,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G2626587,B,A,C,1,1,1,1,Keep more,Cooperate,Trust,Reward,
+45597.03258,45597.03296,IP Address,149.88.108.5,100,125,TRUE,45676.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5237655,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G5237655,C,A,B,1,,1,,Keep more,Cooperate,Distrust,Punish,1
+45597.33258,45597.33296,IP Address,149.88.108.5,100,315,TRUE,45677.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1556659,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G1556659,C,A,B,1,,1,,Split,Cooperate,Trust,Reward,1
+45597.63258,45597.63296,IP Address,149.88.108.5,100,137,TRUE,45678.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1670769,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G1670769,A,C,B,1,,,,Split,Cooperate,Distrust,Punish,
+45597.93258,45597.93296,IP Address,149.88.108.5,100,226,TRUE,45679.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1174419,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G1174419,B,C,A,1,,1,1,Keep more,Cooperate,Trust,Punish,
+45598.23258,45598.23296,IP Address,149.88.108.5,100,89,TRUE,45680.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8568591,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G8568591,C,B,A,1,,,,Keep more,Defect,Trust,Punish,
+45598.53258,45598.53296,IP Address,149.88.108.5,100,152,TRUE,45681.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7343677,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G7343677,C,A,B,,1,,,Keep more,Cooperate,Trust,Reward,
+45598.83258,45598.83296,IP Address,149.88.108.5,100,97,TRUE,45682.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1486654,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G1486654,C,B,A,1,,1,,Keep more,Defect,Trust,Reward,
+45599.13258,45599.13296,IP Address,149.88.108.5,100,183,TRUE,45683.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5848119,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G5848119,C,B,A,1,1,,1,Keep more,Defect,Distrust,Reward,
+45599.43258,45599.43296,IP Address,149.88.108.5,100,91,TRUE,45684.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7399540,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G7399540,A,B,C,1,1,1,1,Split,Defect,Distrust,Punish,
+45599.73258,45599.73296,IP Address,149.88.108.5,100,144,TRUE,45685.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7605202,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G7605202,A,C,B,1,,,1,Keep more,Defect,Trust,Punish,1
+45600.03258,45600.03296,IP Address,149.88.108.5,100,215,TRUE,45686.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3998379,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G3998379,C,A,B,,,,,Split,Defect,Distrust,Reward,
+45600.33258,45600.33296,IP Address,149.88.108.5,100,225,TRUE,45687.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3017156,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G3017156,C,A,B,1,1,1,,Split,Defect,Distrust,Punish,
+45600.63258,45600.63296,IP Address,149.88.108.5,100,178,TRUE,45688.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2219116,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G2219116,C,A,B,1,,,1,Keep more,Defect,Distrust,Reward,1
+45600.93258,45600.93296,IP Address,149.88.108.5,100,348,TRUE,45689.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1498773,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G1498773,B,A,C,,1,,,Split,Cooperate,Distrust,Reward,
+45601.23258,45601.23296,IP Address,149.88.108.5,100,51,TRUE,45690.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5907067,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G5907067,A,B,C,1,,,,Keep more,Cooperate,Trust,Punish,1
+45601.53258,45601.53296,IP Address,149.88.108.5,100,38,TRUE,45691.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5598410,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G5598410,C,A,B,1,1,,,Split,Cooperate,Distrust,Punish,
+45601.83258,45601.83296,IP Address,149.88.108.5,100,183,TRUE,45692.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8264839,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G8264839,C,B,A,1,1,1,,Keep more,Cooperate,Trust,Reward,
+45602.13258,45602.13296,IP Address,149.88.108.5,100,143,TRUE,45693.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1805105,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G1805105,B,C,A,1,1,1,1,Keep more,Defect,Distrust,Reward,1
+45602.43258,45602.43296,IP Address,149.88.108.5,100,128,TRUE,45694.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3781806,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G3781806,C,B,A,,,1,,Split,Defect,Trust,Punish,
+45602.73258,45602.73296,IP Address,149.88.108.5,100,200,TRUE,45695.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3133262,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G3133262,C,A,B,,1,,1,Keep more,Defect,Distrust,Punish,
+45603.03258,45603.03296,IP Address,149.88.108.5,100,121,TRUE,45696.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5948945,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G5948945,C,A,B,1,,1,,Split,Defect,Distrust,Reward,
+45603.33258,45603.33296,IP Address,149.88.108.5,100,48,TRUE,45697.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2290509,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G2290509,C,B,A,,,1,,Keep more,Cooperate,Trust,Reward,1
+45603.63258,45603.63296,IP Address,149.88.108.5,100,267,TRUE,45698.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4024968,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G4024968,C,B,A,,,1,,Keep more,Cooperate,Distrust,Punish,1
+45603.93258,45603.93296,IP Address,149.88.108.5,100,53,TRUE,45699.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7540870,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G7540870,C,B,A,1,1,,1,Keep more,Defect,Trust,Punish,
+45604.23258,45604.23296,IP Address,149.88.108.5,100,215,TRUE,45700.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2605767,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G2605767,B,A,C,1,1,,1,Keep more,Defect,Trust,Reward,1
+45604.53258,45604.53296,IP Address,149.88.108.5,100,297,TRUE,45701.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3237526,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G3237526,A,C,B,1,1,1,,Split,Cooperate,Distrust,Punish,1
+45604.83258,45604.83296,IP Address,149.88.108.5,100,228,TRUE,45702.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4581990,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G4581990,A,C,B,,,1,1,Split,Defect,Distrust,Punish,
+45605.13258,45605.13296,IP Address,149.88.108.5,100,345,TRUE,45703.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3425984,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G3425984,C,A,B,,,,1,Keep more,Cooperate,Distrust,Punish,1
+45605.43258,45605.43296,IP Address,149.88.108.5,100,72,TRUE,45704.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2265885,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G2265885,C,B,A,1,1,,,Split,Cooperate,Distrust,Punish,1
+45605.73258,45605.73296,IP Address,149.88.108.5,100,132,TRUE,45705.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8808461,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G8808461,A,C,B,1,1,,,Keep more,Cooperate,Trust,Punish,
+45606.03258,45606.03296,IP Address,149.88.108.5,100,343,TRUE,45706.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9156278,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G9156278,C,B,A,,1,1,1,Keep more,Cooperate,Distrust,Punish,
+45606.33258,45606.33296,IP Address,149.88.108.5,100,244,TRUE,45707.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6631123,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G6631123,B,C,A,,1,1,1,Split,Cooperate,Distrust,Punish,1
+45606.63258,45606.63296,IP Address,149.88.108.5,100,275,TRUE,45708.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4149382,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G4149382,C,B,A,,,1,1,Keep more,Cooperate,Trust,Punish,
+45606.93258,45606.93296,IP Address,149.88.108.5,100,171,TRUE,45709.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8597466,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G8597466,C,B,A,1,1,,,Keep more,Cooperate,Distrust,Punish,1
+45607.23258,45607.23296,IP Address,149.88.108.5,100,209,TRUE,45710.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3429622,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G3429622,C,B,A,1,1,,1,Keep more,Defect,Trust,Punish,
+45607.53258,45607.53296,IP Address,149.88.108.5,100,54,TRUE,45711.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3649801,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G3649801,C,A,B,1,1,1,1,Split,Cooperate,Trust,Reward,
+45607.83258,45607.83296,IP Address,149.88.108.5,100,180,TRUE,45712.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8721348,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G8721348,C,A,B,1,1,1,1,Keep more,Defect,Trust,Punish,
+45608.13258,45608.13296,IP Address,149.88.108.5,100,245,TRUE,45713.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6618439,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G6618439,A,B,C,1,1,1,,Split,Cooperate,Distrust,Reward,1
+45608.43258,45608.43296,IP Address,149.88.108.5,100,91,TRUE,45714.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5399297,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G5399297,A,B,C,1,1,,1,Split,Defect,Trust,Reward,
+45608.73258,45608.73296,IP Address,149.88.108.5,100,324,TRUE,45715.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4627520,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G4627520,C,B,A,1,1,,1,Split,Cooperate,Distrust,Reward,
+45609.03258,45609.03296,IP Address,149.88.108.5,100,247,TRUE,45716.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6286013,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G6286013,C,B,A,1,,1,1,Split,Defect,Trust,Reward,1
+45609.33258,45609.33296,IP Address,149.88.108.5,100,291,TRUE,45717.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1723677,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G1723677,C,A,B,1,,1,1,Split,Cooperate,Trust,Punish,1
+45609.63258,45609.63296,IP Address,149.88.108.5,100,134,TRUE,45718.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7093803,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G7093803,C,A,B,1,1,1,1,Split,Cooperate,Trust,Punish,
+45609.93258,45609.93296,IP Address,149.88.108.5,100,240,TRUE,45719.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9118507,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G9118507,A,B,C,,1,,,Split,Defect,Distrust,Reward,1
+45610.23258,45610.23296,IP Address,149.88.108.5,100,109,TRUE,45720.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3346616,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G3346616,B,C,A,,,,1,Keep more,Cooperate,Trust,Reward,1
+45610.53258,45610.53296,IP Address,149.88.108.5,100,77,TRUE,45721.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2175971,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G2175971,B,A,C,,,,1,Split,Defect,Trust,Punish,
+45610.83258,45610.83296,IP Address,149.88.108.5,100,175,TRUE,45722.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6741032,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G6741032,A,B,C,1,,,,Split,Cooperate,Distrust,Reward,1
+45611.13258,45611.13296,IP Address,149.88.108.5,100,213,TRUE,45723.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3635793,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G3635793,C,B,A,,1,,,Keep more,Cooperate,Distrust,Punish,1
+45611.43258,45611.43296,IP Address,149.88.108.5,100,319,TRUE,45724.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1692322,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G1692322,A,C,B,1,1,,,Keep more,Defect,Distrust,Punish,
+45611.73258,45611.73296,IP Address,149.88.108.5,100,129,TRUE,45725.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7073583,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G7073583,A,C,B,,1,,1,Keep more,Defect,Trust,Reward,
+45612.03258,45612.03296,IP Address,149.88.108.5,100,43,TRUE,45726.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5328126,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G5328126,C,A,B,,,,,Split,Defect,Distrust,Punish,
+45612.33258,45612.33296,IP Address,149.88.108.5,100,110,TRUE,45727.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4230196,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G4230196,C,B,A,,1,,,Split,Cooperate,Distrust,Reward,1
+45612.63258,45612.63296,IP Address,149.88.108.5,100,100,TRUE,45728.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5358148,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G5358148,C,A,B,,,1,1,Keep more,Defect,Distrust,Reward,1
+45612.93258,45612.93296,IP Address,149.88.108.5,100,74,TRUE,45729.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3084801,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G3084801,C,A,B,1,,1,1,Split,Cooperate,Trust,Reward,
+45613.23258,45613.23296,IP Address,149.88.108.5,100,340,TRUE,45730.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8306114,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G8306114,C,A,B,,,,1,Keep more,Cooperate,Distrust,Punish,
+45613.53258,45613.53296,IP Address,149.88.108.5,100,33,TRUE,45731.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7198329,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G7198329,B,A,C,1,1,1,,Keep more,Defect,Distrust,Reward,1
+45613.83258,45613.83296,IP Address,149.88.108.5,100,116,TRUE,45732.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2835677,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G2835677,C,A,B,1,1,1,,Keep more,Defect,Distrust,Reward,
+45614.13258,45614.13296,IP Address,149.88.108.5,100,175,TRUE,45733.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4991341,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G4991341,B,A,C,,1,,,Keep more,Cooperate,Distrust,Punish,
+45614.43258,45614.43296,IP Address,149.88.108.5,100,32,TRUE,45734.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6001141,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G6001141,C,B,A,1,1,1,1,Keep more,Cooperate,Trust,Punish,1
+45614.73258,45614.73296,IP Address,149.88.108.5,100,245,TRUE,45735.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7379365,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G7379365,C,B,A,1,,,1,Keep more,Defect,Trust,Reward,1
+45615.03258,45615.03296,IP Address,149.88.108.5,100,210,TRUE,45736.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4717528,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G4717528,A,C,B,,1,,1,Split,Cooperate,Distrust,Reward,
+45615.33258,45615.33296,IP Address,149.88.108.5,100,166,TRUE,45737.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7104610,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G7104610,C,A,B,,1,1,,Keep more,Defect,Distrust,Punish,1
+45615.63258,45615.63296,IP Address,149.88.108.5,100,335,TRUE,45738.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4966369,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G4966369,A,B,C,1,,,,Keep more,Defect,Distrust,Reward,1
+45615.93258,45615.93296,IP Address,149.88.108.5,100,344,TRUE,45739.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2806928,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G2806928,C,B,A,1,1,,1,Split,Cooperate,Trust,Reward,
+45616.23258,45616.23296,IP Address,149.88.108.5,100,118,TRUE,45740.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2868587,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G2868587,A,C,B,,1,,,Keep more,Defect,Trust,Punish,1
+45616.53258,45616.53296,IP Address,149.88.108.5,100,93,TRUE,45741.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9987794,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G9987794,B,A,C,1,1,,1,Keep more,Cooperate,Trust,Punish,1
+45616.83258,45616.83296,IP Address,149.88.108.5,100,199,TRUE,45742.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3862636,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G3862636,B,A,C,,,,,Split,Cooperate,Distrust,Punish,1
+45617.13258,45617.13296,IP Address,149.88.108.5,100,338,TRUE,45743.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3627514,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G3627514,C,B,A,1,,,1,Split,Defect,Trust,Punish,1
+45617.43258,45617.43296,IP Address,149.88.108.5,100,22,TRUE,45744.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4740924,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G4740924,C,A,B,1,1,1,1,Keep more,Defect,Distrust,Punish,
+45617.73258,45617.73296,IP Address,149.88.108.5,100,351,TRUE,45745.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7924435,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G7924435,A,B,C,,1,,,Split,Defect,Distrust,Reward,1
+45618.03258,45618.03296,IP Address,149.88.108.5,100,48,TRUE,45746.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4950375,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G4950375,B,C,A,1,,1,1,Split,Cooperate,Distrust,Punish,
+45618.33258,45618.33296,IP Address,149.88.108.5,100,268,TRUE,45747.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7708906,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G7708906,B,A,C,,1,,,Keep more,Defect,Distrust,Punish,
+45618.63258,45618.63296,IP Address,149.88.108.5,100,155,TRUE,45748.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4473093,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G4473093,C,A,B,1,,,1,Keep more,Defect,Trust,Punish,
+45618.93258,45618.93296,IP Address,149.88.108.5,100,194,TRUE,45749.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6903727,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G6903727,C,A,B,1,1,,,Keep more,Cooperate,Trust,Reward,
+45619.23258,45619.23296,IP Address,149.88.108.5,100,44,TRUE,45750.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3696390,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G3696390,C,B,A,,1,,,Split,Cooperate,Trust,Punish,
+45619.53258,45619.53296,IP Address,149.88.108.5,100,121,TRUE,45751.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4496667,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G4496667,A,C,B,1,,,1,Keep more,Cooperate,Trust,Punish,
+45619.83258,45619.83296,IP Address,149.88.108.5,100,306,TRUE,45752.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2062676,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G2062676,B,A,C,,1,,,Keep more,Cooperate,Distrust,Punish,
+45620.13258,45620.13296,IP Address,149.88.108.5,100,314,TRUE,45753.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6678266,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G6678266,C,A,B,1,1,,1,Split,Defect,Distrust,Punish,
+45620.43258,45620.43296,IP Address,149.88.108.5,100,71,TRUE,45754.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4078618,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G4078618,A,B,C,,1,,1,Split,Cooperate,Trust,Reward,1
+45620.73258,45620.73296,IP Address,149.88.108.5,100,252,TRUE,45755.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7390902,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G7390902,A,B,C,,1,1,1,Keep more,Cooperate,Trust,Punish,1
+45621.03258,45621.03296,IP Address,149.88.108.5,100,44,TRUE,45756.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3035091,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G3035091,A,C,B,,,1,,Keep more,Cooperate,Trust,Reward,1
+45621.33258,45621.33296,IP Address,149.88.108.5,100,315,TRUE,45757.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5990993,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G5990993,A,C,B,,1,1,1,Keep more,Cooperate,Distrust,Punish,1
+45621.63258,45621.63296,IP Address,149.88.108.5,100,14,TRUE,45758.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4614323,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G4614323,A,C,B,,,,,Keep more,Defect,Distrust,Reward,1
+45621.93258,45621.93296,IP Address,149.88.108.5,100,187,TRUE,45759.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4195877,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G4195877,B,C,A,,,1,,Keep more,Defect,Trust,Reward,1
+45622.23258,45622.23296,IP Address,149.88.108.5,100,58,TRUE,45760.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2890650,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G2890650,A,B,C,1,1,,,Keep more,Defect,Trust,Punish,1
+45622.53258,45622.53296,IP Address,149.88.108.5,100,1,TRUE,45761.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3240072,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G3240072,B,C,A,,,1,,Split,Defect,Trust,Reward,
+45622.83258,45622.83296,IP Address,149.88.108.5,100,115,TRUE,45762.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7234870,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G7234870,B,A,C,,,,,Keep more,Defect,Distrust,Reward,
+45623.13258,45623.13296,IP Address,149.88.108.5,100,166,TRUE,45763.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1477074,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G1477074,C,A,B,1,,,,Keep more,Defect,Distrust,Punish,
+45623.43258,45623.43296,IP Address,149.88.108.5,100,157,TRUE,45764.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4736306,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G4736306,A,C,B,,,1,,Split,Defect,Distrust,Punish,1
+45623.73258,45623.73296,IP Address,149.88.108.5,100,52,TRUE,45765.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6665473,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G6665473,A,C,B,,,,1,Keep more,Cooperate,Trust,Reward,1
+45624.03258,45624.03296,IP Address,149.88.108.5,100,22,TRUE,45766.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8912726,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G8912726,A,C,B,,1,1,,Split,Defect,Distrust,Reward,
+45624.33258,45624.33296,IP Address,149.88.108.5,100,5,TRUE,45767.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9912203,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G9912203,C,B,A,1,1,1,1,Keep more,Cooperate,Trust,Punish,1
+45624.63258,45624.63296,IP Address,149.88.108.5,100,330,TRUE,45768.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9412536,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G9412536,C,A,B,,1,1,1,Split,Defect,Trust,Punish,
+45624.93258,45624.93296,IP Address,149.88.108.5,100,147,TRUE,45769.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8226019,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G8226019,C,B,A,1,1,,1,Split,Defect,Distrust,Reward,
+45625.23258,45625.23296,IP Address,149.88.108.5,100,35,TRUE,45770.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7538206,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G7538206,A,B,C,,1,1,1,Split,Cooperate,Trust,Reward,1
+45625.53258,45625.53296,IP Address,149.88.108.5,100,284,TRUE,45771.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9938971,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G9938971,A,C,B,1,,1,1,Keep more,Defect,Trust,Punish,
+45625.83258,45625.83296,IP Address,149.88.108.5,100,230,TRUE,45772.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2692030,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G2692030,C,B,A,,,1,1,Keep more,Cooperate,Trust,Punish,
+45626.13258,45626.13296,IP Address,149.88.108.5,100,245,TRUE,45773.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4139798,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G4139798,B,A,C,1,1,,,Keep more,Cooperate,Distrust,Reward,1
+45626.43258,45626.43296,IP Address,149.88.108.5,100,156,TRUE,45774.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9823079,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G9823079,B,C,A,1,1,1,1,Split,Cooperate,Distrust,Punish,1
+45626.73258,45626.73296,IP Address,149.88.108.5,100,300,TRUE,45775.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3321706,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G3321706,C,A,B,1,,,1,Split,Cooperate,Distrust,Punish,
+45627.03258,45627.03296,IP Address,149.88.108.5,100,130,TRUE,45776.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6677341,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G6677341,B,A,C,,1,,1,Split,Defect,Distrust,Reward,1
+45627.33258,45627.33296,IP Address,149.88.108.5,100,190,TRUE,45777.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9455870,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G9455870,C,A,B,,1,1,,Keep more,Cooperate,Trust,Reward,1
+45627.63258,45627.63296,IP Address,149.88.108.5,100,206,TRUE,45778.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9770516,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G9770516,A,C,B,,1,1,,Keep more,Cooperate,Distrust,Reward,1
+45627.93258,45627.93296,IP Address,149.88.108.5,100,47,TRUE,45779.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7049148,,,,,Keep more,,,Cooperate,,,Punish,Trust,,10,0.5,G7049148,C,A,B,,1,1,,Keep more,Cooperate,Trust,Punish,1
+45628.23258,45628.23296,IP Address,149.88.108.5,100,330,TRUE,45780.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2357861,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G2357861,A,C,B,,,,,Keep more,Cooperate,Distrust,Punish,
+45628.53258,45628.53296,IP Address,149.88.108.5,100,159,TRUE,45781.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5272377,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G5272377,C,A,B,,1,1,,Split,Cooperate,Distrust,Reward,1
+45628.83258,45628.83296,IP Address,149.88.108.5,100,313,TRUE,45782.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5755190,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G5755190,B,C,A,1,1,,,Split,Cooperate,Distrust,Punish,1
+45629.13258,45629.13296,IP Address,149.88.108.5,100,238,TRUE,45783.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4873593,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G4873593,C,A,B,,1,1,1,Split,Cooperate,Trust,Reward,
+45629.43258,45629.43296,IP Address,149.88.108.5,100,237,TRUE,45784.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7246874,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G7246874,C,A,B,,1,1,,Keep more,Defect,Trust,Reward,1
+45629.73258,45629.73296,IP Address,149.88.108.5,100,21,TRUE,45785.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8303259,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G8303259,A,C,B,,,1,1,Split,Defect,Distrust,Reward,1
+45630.03258,45630.03296,IP Address,149.88.108.5,100,358,TRUE,45786.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5810943,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G5810943,A,C,B,1,1,1,,Keep more,Defect,Distrust,Reward,1
+45630.33258,45630.33296,IP Address,149.88.108.5,100,248,TRUE,45787.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2867084,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G2867084,A,C,B,1,1,1,1,Split,Defect,Trust,Punish,1
+45630.63258,45630.63296,IP Address,149.88.108.5,100,130,TRUE,45788.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8894563,,,,,Split,,,Cooperate,,,Reward,Distrust,,10,0.5,G8894563,C,B,A,,,,1,Split,Cooperate,Distrust,Reward,1
+45630.93258,45630.93296,IP Address,149.88.108.5,100,351,TRUE,45789.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9432567,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G9432567,C,B,A,1,,,1,Split,Defect,Trust,Punish,
+45631.23258,45631.23296,IP Address,149.88.108.5,100,165,TRUE,45790.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1697278,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G1697278,C,A,B,,,,,Keep more,Cooperate,Trust,Reward,
+45631.53258,45631.53296,IP Address,149.88.108.5,100,304,TRUE,45791.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9096241,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G9096241,C,A,B,1,,,,Split,Defect,Trust,Punish,1
+45631.83258,45631.83296,IP Address,149.88.108.5,100,310,TRUE,45792.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5534979,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G5534979,A,B,C,1,,,,Keep more,Defect,Distrust,Reward,
+45632.13258,45632.13296,IP Address,149.88.108.5,100,75,TRUE,45793.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3963117,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G3963117,A,C,B,1,1,,1,Keep more,Cooperate,Distrust,Punish,1
+45632.43258,45632.43296,IP Address,149.88.108.5,100,124,TRUE,45794.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6002312,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G6002312,A,B,C,,1,,,Keep more,Defect,Distrust,Punish,
+45632.73258,45632.73296,IP Address,149.88.108.5,100,271,TRUE,45795.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7886709,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G7886709,A,C,B,,1,,,Split,Defect,Distrust,Punish,1
+45633.03258,45633.03296,IP Address,149.88.108.5,100,13,TRUE,45796.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2226517,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G2226517,C,B,A,,1,1,1,Keep more,Defect,Trust,Punish,1
+45633.33258,45633.33296,IP Address,149.88.108.5,100,356,TRUE,45797.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2273004,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G2273004,A,B,C,1,,1,1,Keep more,Cooperate,Distrust,Reward,
+45633.63258,45633.63296,IP Address,149.88.108.5,100,101,TRUE,45798.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2808031,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G2808031,A,B,C,1,1,1,,Keep more,Defect,Trust,Punish,1
+45633.93258,45633.93296,IP Address,149.88.108.5,100,159,TRUE,45799.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8600744,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G8600744,B,A,C,,1,1,1,Split,Defect,Distrust,Reward,1
+45634.23258,45634.23296,IP Address,149.88.108.5,100,296,TRUE,45800.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1239170,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G1239170,A,C,B,,,1,,Split,Defect,Trust,Punish,
+45634.53258,45634.53296,IP Address,149.88.108.5,100,155,TRUE,45801.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5887465,,,,,Keep more,,,Cooperate,,,Reward,Trust,,10,0.5,G5887465,A,B,C,,,,1,Keep more,Cooperate,Trust,Reward,
+45634.83258,45634.83296,IP Address,149.88.108.5,100,241,TRUE,45802.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5362267,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G5362267,C,A,B,1,,,,Keep more,Cooperate,Distrust,Punish,
+45635.13258,45635.13296,IP Address,149.88.108.5,100,14,TRUE,45803.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6955871,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G6955871,A,B,C,,1,1,,Split,Cooperate,Trust,Punish,1
+45635.43258,45635.43296,IP Address,149.88.108.5,100,113,TRUE,45804.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9733860,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G9733860,B,A,C,,1,,,Split,Cooperate,Trust,Punish,1
+45635.73258,45635.73296,IP Address,149.88.108.5,100,359,TRUE,45805.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1486200,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G1486200,C,A,B,1,1,1,1,Split,Cooperate,Distrust,Punish,1
+45636.03258,45636.03296,IP Address,149.88.108.5,100,234,TRUE,45806.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2463505,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G2463505,A,B,C,,,,,Keep more,Defect,Trust,Punish,1
+45636.33258,45636.33296,IP Address,149.88.108.5,100,212,TRUE,45807.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6453656,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G6453656,B,A,C,1,,1,,Split,Defect,Trust,Punish,
+45636.63258,45636.63296,IP Address,149.88.108.5,100,139,TRUE,45808.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8153024,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G8153024,C,A,B,,,1,,Split,Cooperate,Trust,Punish,
+45636.93258,45636.93296,IP Address,149.88.108.5,100,200,TRUE,45809.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4625641,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G4625641,B,C,A,,1,,1,Split,Defect,Trust,Reward,1
+45637.23258,45637.23296,IP Address,149.88.108.5,100,91,TRUE,45810.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5822831,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G5822831,C,A,B,,,1,1,Split,Cooperate,Trust,Reward,1
+45637.53258,45637.53296,IP Address,149.88.108.5,100,54,TRUE,45811.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4538905,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G4538905,C,A,B,,,1,1,Split,Defect,Distrust,Punish,1
+45637.83258,45637.83296,IP Address,149.88.108.5,100,302,TRUE,45812.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5366798,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G5366798,A,C,B,1,,1,,Split,Cooperate,Distrust,Punish,
+45638.13258,45638.13296,IP Address,149.88.108.5,100,288,TRUE,45813.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8799113,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G8799113,C,B,A,,1,,,Split,Defect,Trust,Punish,1
+45638.43258,45638.43296,IP Address,149.88.108.5,100,28,TRUE,45814.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4661914,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G4661914,A,C,B,,,,,Keep more,Defect,Distrust,Punish,
+45638.73258,45638.73296,IP Address,149.88.108.5,100,46,TRUE,45815.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5826626,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G5826626,A,B,C,,1,,1,Split,Cooperate,Trust,Punish,
+45639.03258,45639.03296,IP Address,149.88.108.5,100,151,TRUE,45816.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1013120,,,,,Keep more,,,Defect,,,Punish,Trust,,10,0.5,G1013120,B,C,A,1,1,1,,Keep more,Defect,Trust,Punish,
+45639.33258,45639.33296,IP Address,149.88.108.5,100,186,TRUE,45817.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2638921,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G2638921,A,B,C,1,1,1,,Split,Defect,Trust,Punish,
+45639.63258,45639.63296,IP Address,149.88.108.5,100,197,TRUE,45818.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3092237,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G3092237,C,A,B,1,,,,Split,Cooperate,Trust,Punish,1
+45639.93258,45639.93296,IP Address,149.88.108.5,100,137,TRUE,45819.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2076196,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G2076196,A,B,C,1,,,,Keep more,Defect,Distrust,Reward,1
+45640.23258,45640.23296,IP Address,149.88.108.5,100,338,TRUE,45820.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4886103,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G4886103,B,C,A,,,,1,Keep more,Defect,Trust,Reward,1
+45640.53258,45640.53296,IP Address,149.88.108.5,100,41,TRUE,45821.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7145323,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G7145323,C,B,A,,1,1,1,Split,Defect,Distrust,Reward,
+45640.83258,45640.83296,IP Address,149.88.108.5,100,30,TRUE,45822.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3378458,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G3378458,C,A,B,,,1,1,Split,Defect,Distrust,Punish,1
+45641.13258,45641.13296,IP Address,149.88.108.5,100,58,TRUE,45823.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7784610,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G7784610,B,C,A,,,,1,Split,Defect,Trust,Reward,1
+45641.43258,45641.43296,IP Address,149.88.108.5,100,140,TRUE,45824.83297,,,,,,42.3562,-71.0631,anonymous,EN,G7275702,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G7275702,A,B,C,1,,,1,Split,Cooperate,Trust,Reward,
+45641.73258,45641.73296,IP Address,149.88.108.5,100,269,TRUE,45825.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1343176,,,,,Split,,,Cooperate,,,Punish,Distrust,,10,0.5,G1343176,B,C,A,,1,,1,Split,Cooperate,Distrust,Punish,1
+45642.03258,45642.03296,IP Address,149.88.108.5,100,286,TRUE,45826.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2872641,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G2872641,C,A,B,,1,1,1,Keep more,Cooperate,Distrust,Punish,
+45642.33258,45642.33296,IP Address,149.88.108.5,100,190,TRUE,45827.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8768980,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G8768980,C,A,B,1,1,1,,Split,Defect,Trust,Punish,1
+45642.63258,45642.63296,IP Address,149.88.108.5,100,88,TRUE,45828.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5926791,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G5926791,A,B,C,1,1,1,,Split,Defect,Distrust,Punish,
+45642.93258,45642.93296,IP Address,149.88.108.5,100,100,TRUE,45829.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9976232,,,,,Split,,,Cooperate,,,Reward,Trust,,10,0.5,G9976232,C,B,A,,,1,,Split,Cooperate,Trust,Reward,
+45643.23258,45643.23296,IP Address,149.88.108.5,100,146,TRUE,45830.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1479921,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G1479921,C,A,B,1,,,1,Keep more,Defect,Trust,Reward,
+45643.53258,45643.53296,IP Address,149.88.108.5,100,339,TRUE,45831.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6171998,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G6171998,C,A,B,,1,1,,Keep more,Cooperate,Distrust,Reward,
+45643.83258,45643.83296,IP Address,149.88.108.5,100,262,TRUE,45832.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4271216,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G4271216,A,B,C,1,,1,1,Split,Cooperate,Trust,Punish,1
+45644.13258,45644.13296,IP Address,149.88.108.5,100,52,TRUE,45833.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2712447,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G2712447,C,A,B,1,1,1,1,Split,Defect,Distrust,Reward,
+45644.43258,45644.43296,IP Address,149.88.108.5,100,266,TRUE,45834.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8439329,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G8439329,B,A,C,,1,,,Keep more,Cooperate,Distrust,Reward,1
+45644.73258,45644.73296,IP Address,149.88.108.5,100,35,TRUE,45835.83297,,,,,,42.3562,-71.0631,anonymous,EN,G9059655,,,,,Split,,,Cooperate,,,Punish,Trust,,10,0.5,G9059655,C,A,B,,1,1,1,Split,Cooperate,Trust,Punish,1
+45645.03258,45645.03296,IP Address,149.88.108.5,100,113,TRUE,45836.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4187124,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G4187124,C,B,A,1,1,,,Keep more,Defect,Distrust,Punish,
+45645.33258,45645.33296,IP Address,149.88.108.5,100,130,TRUE,45837.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4637804,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G4637804,C,B,A,1,1,,,Split,Defect,Trust,Reward,
+45645.63258,45645.63296,IP Address,149.88.108.5,100,249,TRUE,45838.83297,,,,,,42.3562,-71.0631,anonymous,EN,G2984424,,,,,Keep more,,,Defect,,,Punish,Distrust,,10,0.5,G2984424,B,A,C,1,,1,1,Keep more,Defect,Distrust,Punish,
+45645.93258,45645.93296,IP Address,149.88.108.5,100,270,TRUE,45839.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8581228,,,,,Keep more,,,Defect,,,Reward,Trust,,10,0.5,G8581228,B,C,A,1,1,,1,Keep more,Defect,Trust,Reward,
+45646.23258,45646.23296,IP Address,149.88.108.5,100,268,TRUE,45840.83297,,,,,,42.3562,-71.0631,anonymous,EN,G8684798,,,,,Split,,,Defect,,,Reward,Distrust,,10,0.5,G8684798,A,C,B,,,,1,Split,Defect,Distrust,Reward,1
+45646.53258,45646.53296,IP Address,149.88.108.5,100,191,TRUE,45841.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4677202,,,,,Split,,,Defect,,,Punish,Distrust,,10,0.5,G4677202,A,B,C,1,1,,,Split,Defect,Distrust,Punish,
+45646.83258,45646.83296,IP Address,149.88.108.5,100,35,TRUE,45842.83297,,,,,,42.3562,-71.0631,anonymous,EN,G3612581,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G3612581,B,C,A,1,1,1,1,Split,Defect,Trust,Reward,1
+45647.13258,45647.13296,IP Address,149.88.108.5,100,262,TRUE,45843.83297,,,,,,42.3562,-71.0631,anonymous,EN,G1012004,,,,,Keep more,,,Cooperate,,,Punish,Distrust,,10,0.5,G1012004,C,B,A,1,1,1,1,Keep more,Cooperate,Distrust,Punish,1
+45647.43258,45647.43296,IP Address,149.88.108.5,100,177,TRUE,45844.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5428090,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G5428090,A,B,C,1,1,,,Keep more,Defect,Distrust,Reward,1
+45647.73258,45647.73296,IP Address,149.88.108.5,100,286,TRUE,45845.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4682105,,,,,Keep more,,,Cooperate,,,Reward,Distrust,,10,0.5,G4682105,A,C,B,,1,,,Keep more,Cooperate,Distrust,Reward,
+45648.03258,45648.03296,IP Address,149.88.108.5,100,72,TRUE,45846.83297,,,,,,42.3562,-71.0631,anonymous,EN,G6273328,,,,,Keep more,,,Defect,,,Reward,Distrust,,10,0.5,G6273328,B,A,C,1,1,1,1,Keep more,Defect,Distrust,Reward,
+45648.33258,45648.33296,IP Address,149.88.108.5,100,183,TRUE,45847.83297,,,,,,42.3562,-71.0631,anonymous,EN,G4994245,,,,,Split,,,Defect,,,Punish,Trust,,10,0.5,G4994245,A,C,B,,1,,1,Split,Defect,Trust,Punish,1
+45648.63258,45648.63296,IP Address,149.88.108.5,100,323,TRUE,45848.83297,,,,,,42.3562,-71.0631,anonymous,EN,G5013386,,,,,Split,,,Defect,,,Reward,Trust,,10,0.5,G5013386,B,A,C,,1,,1,Split,Defect,Trust,Reward,1
