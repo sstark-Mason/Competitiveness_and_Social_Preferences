@@ -1,0 +1,291 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,QID127,QID1216457205,QID87,QID1216457206,QID88,QID1216457207,QID1216457211,QID91,QID1216457212,QID1216457208,QID89,QID1216457209,QID1216457210,QID1216457213,Showup_Fee,Comprehension_Payment,Mason G#,Rand_Scenario_1,Rand_Scenario_3,Rand_Scenario_2,Comprehension_Overview_Correct,Comprehension_Scenario_1_DG_Correct,Comprehension_Scenario_2_TG_Correct,Comprehension_Scenario_3_PD_Correct,Dictator_Game_Choice,Prisoners_Dilemma_Choice,Trust_Game_P1_Investor_Choice,Trust_Game_P2_Trustee_Choice,Attention_Check_Correct
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Your Mason G# will be used to link your participation in Parts 1 and 2. Your G# will not be used for any other type of identification and will be deleted from our data after you complete Part 2 of the experiment.
+
+
+
+Please enter your Mason G# (e.g., G12345678):","Instructions
+ 
+
+Please read these instructions carefully. You may earn an additional payment of [Field-Comprehension_Payment] for each question about the instructions that you correctly answer. You will have two attempts for each question.
+
+
+
+In this online experiment, there are three scenarios. Each scenario involves two participants: you, and one other participant that you will be randomly grouped with. Because there are three scenarios, you may be grouped with three other unique participants. You will never learn any information about the identity of your group members for any scenario, such as their name, age, or gender.
+
+
+For each scenario, you and the other participant will be randomly assigned the roles of Player 1 or Player 2. Since you may be assigned either role, you will be asked to make decisions for all scenarios in which you could be Player 1 or Player 2. These decisions will influence the payoffs received by both you and the other participant.
+
+
+
+At the end of the study, one of the three scenarios will be randomly selected for implementation and payment purposes. The decisions you made in the randomly-selected scenario will determine your and the other participant’s payoffs.
+
+
+
+Comprehension Question
+
+You may only proceed once you answer the question correctly.
+
+According to the instructions above, which statement below is true? Select only one answer.","Please check your answer and try again.
+
+
+Instructions
+
+
+
+Please read these instructions carefully. You will be asked questions to confirm that you have read the instructions.
+
+
+
+In this online experiment, there are three scenarios. Each scenario involves two participants: you, and one other participant that you will be randomly grouped with. Because there are three scenarios, you may be grouped with three other unique participants. You will never learn any information about the identity of your group members for any scenario, such as their name, age, or gender.
+
+
+
+For each scenario, you and the other participant will be randomly assigned the roles of Player 1 or Player 2. Since you may be assigned either role, you will be asked to make decisions for all scenarios in which you could be Player 1 or Player 2. These decisions will influence the payoffs received by both you and the other participant.
+
+
+
+At the end of the study, one of the three scenarios will be randomly selected for implementation and payment purposes. The decisions you made in the randomly-selected scenario will determine your and the other participant’s payoffs.
+
+
+
+Comprehension Question
+
+You may only proceed once you answer the question correctly.
+
+According to the instructions above, which statement below is true? Select only one answer.","Scenario [Field-Rand_Scenario_1]: Instructions
+
+
+
+Consider a scenario in which Player 1 can either ""keep more"" money for themselves or ""split"" money between themselves and Player 2.
+
+
+	
+	If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.
+	
+	
+	If Player 1 splits, Player 1 receives $5 and Player 2 receives $5.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Please check your answer and try again.
+
+
+
+Scenario [Field-Rand_Scenario_1]: Instructions
+
+
+Consider a scenario in which Player 1 can either ""keep more"" money for themselves or ""split"" money between themselves and Player 2.
+
+
+	
+	If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.
+	
+	
+	If Player 1 splits, Player 1 receives $5 and Player 2 receives $5.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Scenario [Field-Rand_Scenario_1]: Player 1 Choice
+
+
+
+Please make the following decision as Player 1 in this scenario.
+
+
+	
+	If Player 1 keeps more, Player 1 receive $10 and Player 2 receives $0.
+	
+	
+	If Player 1 splits, Player 1 receive $5 and Player 2 receives $5.
+	
+
+
+
+
+Given that you can receive a higher payoff by keeping more, what do you want to do?","Scenario [Field-Rand_Scenario_3]: Instructions
+
+
+
+Consider a scenario in which both Player 1 and Player 2 can either ""cooperate"" or ""defect.""
+
+
+	
+	If Player 1 defects and Player 2 defects, Player 1 receives $4 and Player 2 receives $4.
+	
+	
+	If Player 1 defects and Player 2 cooperates, Player 1 receives $7 and Player 2 dollars $3.
+	
+	
+	If Player 1 cooperates and Player 2 defects, Player 1 receives $3 and Player 2 receives $7.
+	
+	
+	If Player 1 cooperates and Player 2 cooperates, Player 1 receives $6 and Player 2 receives $6.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Please check your answer and try again.
+
+
+
+Scenario [Field-Rand_Scenario_3]: Instructions
+
+
+Consider a scenario in which both Player 1 and Player 2 can either ""cooperate"" or ""defect.""
+
+
+	
+	If Player 1 defects and Player 2 defects, Player 1 receives $4 and Player 2 receives $4.
+	
+	
+	If Player 1 defects and Player 2 cooperates, Player 1 receives $7 and Player 2 dollars $3.
+	
+	
+	If Player 1 cooperates and Player 2 defects, Player 1 receives $3 and Player 2 receives $7.
+	
+	
+	If Player 1 cooperates and Player 2 cooperates, Player 1 receives $6 and Player 2 receives $6.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Scenario [Field-Rand_Scenario_3]: Player 1 Choice
+
+
+
+Please make the following decision as Player 1 in this scenario.
+
+
+	
+	If Player 1 defects and Player 2 defects, Player 1 receives $4 and Player 2 receives $4.
+	
+	
+	If Player 1 defects and Player 2 cooperates, Player 1 receives $7 and Player 2 receives $3.
+	
+	
+	If Player 1 cooperates and Player 2 defects, Player 1 receives $3 and Player 2 receives $7.
+	
+	
+	If Player 1 cooperates and Player 2 cooperates, Player 1 receives $6 and Player 2 receives $6.
+	
+
+
+
+
+Given that you can receive a higher payoff by defecting, what do you want to do?","Scenario [Field-Rand_Scenario_2]: Instructions
+
+
+
+Consider a scenario in which Player 1 can either ""trust"" or ""distrust"" Player 2. If Player 1 trusts Player 2, Player 2 can either ""reward"" or ""punish"" Player 1's trust.
+
+
+	
+	If Player 1 distrusts Player 2, Player 1 receives $5 and Player 2 receives $0.
+	
+	
+	If Player 1 trusts and Player 2 rewards their trust, Player 1 receives $7 and Player 2 receives $8.
+	
+	
+	If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Please check your answer and try again.
+
+ 
+
+Scenario [Field-Rand_Scenario_2]: Instructions
+
+ 
+
+Consider a scenario in which Player 1 can either ""trust"" or ""distrust"" Player 2. If Player 1 trusts Player 2, Player 2 can either ""reward"" or ""punish"" Player 1's trust.
+
+
+	
+	If Player 1 distrusts Player 2, Player 1 receives $10 and Player 2 receives $0.
+	
+	
+	If Player 1 trusts and Player 2 rewards their trust, Player 1 receives $10 and Player 2 receives $10.
+	
+	
+	If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $0 and Player 2 receives $20.
+	
+
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Scenario [Field-Rand_Scenario_2]: Player 2 Choice
+
+
+
+Given that Player 1 chose to ""trust"" Player 2, please make the following decision as Player 2 in this scenario.
+
+
+	
+	If Player 1 trusts and Player 2 rewards their trust, Player 1 receives $7 and Player 2 receives $8.
+	
+	
+	If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.
+	
+
+
+
+
+Given that you can receive a higher payoff by punishing, what do you want to do?","Scenario [Field-Rand_Scenario_2]: Player 1 Choice
+
+
+
+Please make the following decision as Player 1 in this scenario.
+
+	If Player 1 distrusts Player 2, Player 1 receives $5 and Player 2 receives $0.
+	If Player 1 trusts and Player 2 rewards their trust, Player 1 receives $7 and Player 2 receives $8.
+	If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.
+
+
+
+Given that you can eliminate risk of punishment by distrusting, what do you want to do?","End of Part 1
+
+ 
+
+Data quality is important. We would like to know whether you are still paying attention rather than just clicking “Continue.” Please now choose the second option from the list (twenty-one to forty percent) and ignore the question below.
+
+ 
+What is the share?",Showup_Fee,Comprehension_Payment,Mason G#,Rand_Scenario_1,Rand_Scenario_3,Rand_Scenario_2,Comprehension_Overview_Correct,Comprehension_Scenario_1_DG_Correct,Comprehension_Scenario_2_TG_Correct,Comprehension_Scenario_3_PD_Correct,Dictator_Game_Choice,Prisoners_Dilemma_Choice,Trust_Game_P1_Investor_Choice,Trust_Game_P2_Trustee_Choice,Attention_Check_Correct
+"{""ImportId"":""startDate"",""timeZone"":""America/New_York""}","{""ImportId"":""endDate"",""timeZone"":""America/New_York""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/New_York""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID127_TEXT""}","{""ImportId"":""QID1216457205""}","{""ImportId"":""QID87""}","{""ImportId"":""QID1216457206""}","{""ImportId"":""QID88""}","{""ImportId"":""QID1216457207""}","{""ImportId"":""QID1216457211""}","{""ImportId"":""QID91""}","{""ImportId"":""QID1216457212""}","{""ImportId"":""QID1216457208""}","{""ImportId"":""QID89""}","{""ImportId"":""QID1216457209""}","{""ImportId"":""QID1216457210""}","{""ImportId"":""QID1216457213""}","{""ImportId"":""Showup_Fee""}","{""ImportId"":""Comprehension_Payment""}","{""ImportId"":""Mason G#""}","{""ImportId"":""Rand_Scenario_1""}","{""ImportId"":""Rand_Scenario_3""}","{""ImportId"":""Rand_Scenario_2""}","{""ImportId"":""Comprehension_Overview_Correct""}","{""ImportId"":""Comprehension_Scenario_1_DG_Correct""}","{""ImportId"":""Comprehension_Scenario_2_TG_Correct""}","{""ImportId"":""Comprehension_Scenario_3_PD_Correct""}","{""ImportId"":""Dictator_Game_Choice""}","{""ImportId"":""Prisoners_Dilemma_Choice""}","{""ImportId"":""Trust_Game_P1_Investor_Choice""}","{""ImportId"":""Trust_Game_P2_Trustee_Choice""}","{""ImportId"":""Attention_Check_Correct""}"
+2024-09-27 19:55:30,2024-09-27 19:56:03,IP Address,149.88.108.5,100,32,True,2024-09-27 19:56:04,R_6fTTS5rykXsNOrP,,,,,42.3562,-71.0631,anonymous,EN,G1,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Split,"If Player 2 defects, Player 1 receives more by defecting.
+",,Cooperate,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Reward,Trust,21 - 40%,$10,$0.50,G1,A,B,C,1,1,1,1,Split,Cooperate,Trust,Reward,1
+2024-09-27 19:58:55,2024-09-27 19:59:28,IP Address,149.88.108.5,100,32,True,2024-09-27 19:59:29,R_3r1U3wRgI63akHM,,,,,42.3562,-71.0631,anonymous,EN,G2,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Split,"If both Player 1 and Player 2 cooperate, both receive $4.","If both Player 1 and Player 2 cooperate, both receive $4.",Cooperate,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Reward,Trust,41 - 60%,$10,$0.50,G2,B,A,C,1,1,1,,Split,Cooperate,Trust,Reward,
+2024-10-04 11:22:09,2024-10-04 11:36:46,IP Address,192.5.215.208,100,876,True,2024-10-04 11:36:46,R_7JYWDbUxPJzHAeB,,,,,38.8476,-77.3281,anonymous,EN,G01326848,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Split,"If Player 2 defects, Player 1 receives more by defecting.
+",,Cooperate,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Reward,Trust,21 - 40%,$10,$0.50,G01326848,C,B,A,1,1,1,1,Split,Cooperate,Trust,Reward,1
+2024-10-04 11:50:19,2024-10-04 11:56:11,IP Address,129.174.182.86,100,351,True,2024-10-04 11:56:12,R_7D2iUKlzt1tUCEa,,,,,38.8476,-77.3281,anonymous,EN,G01245789,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Keep more,"If Player 2 defects, Player 1 receives more by defecting.
+",,Defect,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Reward,Trust,21 - 40%,$10,$0.50,G01245789,A,C,B,1,1,1,1,Keep more,Defect,Trust,Reward,1
+2024-10-04 14:24:15,2024-10-04 14:28:01,IP Address,129.174.182.76,100,226,True,2024-10-04 14:28:02,R_1myqDMEW67bTolB,,,,,38.8476,-77.3281,anonymous,EN,G1111111111,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Split,"If Player 2 defects, Player 1 receives more by defecting.
+",,Cooperate,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Punish,Distrust,0 - 20%,$10,$0.50,G1111111111,B,C,A,1,1,1,1,Split,Cooperate,Distrust,Punish,
+2024-10-04 14:23:58,2024-10-04 14:35:15,IP Address,129.174.232.251,100,676,True,2024-10-04 14:35:16,R_1eOnIBlaOn9wdhf,,,,,39.0503,-77.3909,anonymous,EN,G9876,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Split,"If Player 2 defects, Player 1 receives more by defecting.
+",,Defect,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Reward,Trust,21 - 40%,$10,$0.50,G9876,A,B,C,1,1,1,1,Split,Defect,Trust,Reward,1
+2024-10-04 14:26:49,2024-10-04 14:38:35,IP Address,129.174.232.107,100,705,True,2024-10-04 14:38:35,R_7LiFwQzB4tWgX7h,,,,,39.0503,-77.3909,anonymous,EN,G6666,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Split,"If Player 2 defects, Player 1 receives more by defecting.
+",,Cooperate,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Reward,Trust,21 - 40%,$10,$0.50,G6666,B,A,C,1,1,1,1,Split,Cooperate,Trust,Reward,1
+2024-10-04 14:24:09,2024-10-04 14:43:49,IP Address,129.174.182.97,100,1180,True,2024-10-04 14:43:50,R_7veMaYMFXndf3qr,,,,,38.8476,-77.3281,anonymous,EN,G123456789,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Keep more,"If Player 2 defects, Player 1 receives more by defecting.
+",,Defect,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Punish,Distrust,21 - 40%,$10,$0.50,G123456789,C,A,B,1,1,1,1,Keep more,Defect,Distrust,Punish,1
+2024-10-04 14:34:13,2024-10-04 14:47:23,IP Address,129.174.232.236,100,789,True,2024-10-04 14:47:24,R_7mXbT0NVjWgIUJf,,,,,39.0503,-77.3909,anonymous,EN,G7777,There are three scenarios. One scenario will be randomly selected to calculate your bonus payment.,,"If Player 1 keeps more, Player 1 receives $10 and Player 2 receives $0.",,Split,"If Player 2 defects, Player 1 receives more by defecting.
+",,Cooperate,"If Player 1 trusts and Player 2 punishes their trust, Player 1 receives $3 and Player 2 receives $12.",,Reward,Distrust,21 - 40%,$10,$0.50,G7777,A,C,B,1,1,1,1,Split,Cooperate,Distrust,Reward,1

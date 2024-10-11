@@ -1,0 +1,262 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,QID127,QID62_1_1,QID61,QID98,QID44_First Click,QID44_Last Click,QID44_Page Submit,QID44_Click Count,QID65_1_1,QID65_2_1,QID65_3_1,QID65_4_1,QID65_5_1,QID65_6_1,QID65_7_1,QID65_8_1,QID65_9_1,QID65_10_1,QID65_11_1,QID65_12_1,QID65_13_1,QID65_14_1,QID65_15_1,QID65_16_1,QID65_17_1,QID65_18_1,QID65_19_1,QID65_20_1,QID65_21_1,QID65_22_1,QID65_23_1,QID65_24_1,QID65_25_1,QID65_26_1,QID65_27_1,QID65_28_1,QID65_29_1,QID65_30_1,QID7,QID101,QID51_First Click,QID51_Last Click,QID51_Page Submit,QID51_Click Count,QID66_1_1,QID66_2_1,QID66_3_1,QID66_4_1,QID66_5_1,QID66_6_1,QID66_7_1,QID66_8_1,QID66_9_1,QID66_10_1,QID66_11_1,QID66_12_1,QID66_13_1,QID66_14_1,QID66_15_1,QID66_16_1,QID66_17_1,QID66_18_1,QID66_19_1,QID66_20_1,QID66_21_1,QID66_22_1,QID66_23_1,QID66_24_1,QID66_25_1,QID66_26_1,QID66_27_1,QID66_28_1,QID66_29_1,QID66_30_1,QID119_1,QID119_2,QID104,QID105,QID14_1,QID14_2,QID53_First Click,QID53_Last Click,QID53_Page Submit,QID53_Click Count,QID67_1_1,QID67_2_1,QID67_3_1,QID67_4_1,QID67_5_1,QID67_6_1,QID67_7_1,QID67_8_1,QID67_9_1,QID67_10_1,QID67_11_1,QID67_12_1,QID67_13_1,QID67_14_1,QID67_15_1,QID67_16_1,QID67_17_1,QID67_18_1,QID67_19_1,QID67_20_1,QID67_21_1,QID67_22_1,QID67_23_1,QID67_24_1,QID67_25_1,QID67_26_1,QID67_27_1,QID67_28_1,QID67_29_1,QID67_30_1,QID10,QID110,QID57_First Click,QID57_Last Click,QID57_Page Submit,QID57_Click Count,QID70_1_1,QID70_2_1,QID70_3_1,QID70_4_1,QID70_5_1,QID70_6_1,QID70_7_1,QID70_8_1,QID70_9_1,QID70_10_1,QID70_11_1,QID70_12_1,QID70_13_1,QID70_14_1,QID70_15_1,QID70_16_1,QID70_17_1,QID70_18_1,QID70_19_1,QID70_20_1,QID70_21_1,QID70_22_1,QID70_23_1,QID70_24_1,QID70_25_1,QID70_26_1,QID70_27_1,QID70_28_1,QID70_29_1,QID70_30_1,QID115_1,QID115_2,QID115_3,QID116,QID113,QID11_1,QID11_2,QID11_3,QID58_First Click,QID58_Last Click,QID58_Page Submit,QID58_Click Count,QID69_1_1,QID69_2_1,QID69_3_1,QID69_4_1,QID69_5_1,QID69_6_1,QID69_7_1,QID69_8_1,QID69_9_1,QID69_10_1,QID69_11_1,QID69_12_1,QID69_13_1,QID69_14_1,QID69_15_1,QID69_16_1,QID69_17_1,QID69_18_1,QID69_19_1,QID69_20_1,QID69_21_1,QID69_22_1,QID69_23_1,QID69_24_1,QID69_25_1,QID69_26_1,QID69_27_1,QID69_28_1,QID69_29_1,QID69_30_1,QID20_1,QID38_1,QID39_1,QID72_1,QID73_1,QID16,QID27,QID17,QID23,QID29,QID24,QID25_1,QID25_2,QID25_3,QID26_1,QID26_2,QID26_3,QID26_4,QID28_1,QID30,QID31,Showup_Fee,Comprehension_Payment,Fixed_Payment,t1_total_correct,t2_total_correct,t3_total_correct,t4_total_correct,perc_piece_rate,perc_other_tourn,perc_self_tourn,t1_time_remaining,t2_time_remaining,t3_time_remaining,t4_time_remaining,Treatment_Group,Num_Tasks,Num_Tasks_Long,Piece_Rate_Num,Other_Tournament_Num,Self_Tournament_Num,Choice_Task_Num,Other_Tournament_Name,Prev_Tasks,Comprehension_Task_PR_Correct,Comprehension_Task_OT_Correct,Comprehension_Task_Choice_Group1_Correct,Comprehension_Task_ST_Correct,Comprehension_Task_Choice_Group2_Correct
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Your Mason G# will be used to link your participation in Parts 1 and 2. Your G# will not be used for any other type of identification and will be deleted from our data after you complete Part 2 of the experiment.
+
+
+
+Please enter your Mason G# (e.g., G12345678):",Example Problem - 71 + 21 + 19 + 85 + 61 =   - Answer,"In this example, the correct sum is 257. Please enter the solution into the box before continuing.
+
+
+
+You will be given 3 minutes to do a series of these problems. You are not allowed to use a calculator to determine the sum. However, you are allowed to write the numbers down and make use of scratch paper. There is no penalty for submitting an incorrect answer to a problem. After the allotted time has passed, you will be moved to the next page and your answers will be submitted automatically. You can end the task early by clicking on the ""Next"" button.
+
+
+
+If Task [Field-Piece_Rate_Num] is the task that is randomly selected for your payment, then you will get $0.50 for each problem you solve correctly in the 3 minutes. We refer to this task as the ""Piece Rate"" Task.
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.
+
+If this task is chosen for payment...","Please check your answer and try again.
+
+
+For Task [Field-Piece_Rate_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers.
+
+
+
+You will be given 3 minutes to do a series of these problems. You are not allowed to use a calculator to determine the sum. However, you are allowed to write the numbers down and make use of scratch paper. There is no penalty for submitting an incorrect answer to a problem. After the allotted time has passed, you will be moved to the next page and your answers will be submitted automatically. You can end the task early by clicking on the ""Next"" button.
+
+
+
+If Task [Field-Piece_Rate_Num] is the task that is randomly selected for your payment, then you will get $0.50 for each problem you solve correctly in the 3 minutes. We refer to this task as the ""Piece Rate"" Task.
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.
+
+
+
+If this task is chosen for payment...",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Task [Field-Piece_Rate_Num]: Piece Rate Task - 73 + 88 + 63 + 84 + 26 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 66 + 36 + 58 + 99 + 15 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 65 + 42 + 86 + 40 + 91 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 27 + 18 + 25 + 71 + 94 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 81 + 43 + 39 + 77 + 92 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 81 + 40 + 67 + 94 + 39 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 56 + 49 + 60 + 27 + 28 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 99 + 98 + 89 + 92 + 44 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 86 + 30 + 87 + 72 + 15 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 67 + 31 + 78 + 45 + 21 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 13 + 60 + 19 + 33 + 15 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 14 + 39 + 10 + 16 + 15 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 94 + 48 + 72 + 79 + 68 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 31 + 89 + 56 + 49 + 71 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 17 + 37 + 88 + 43 + 61 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 64 + 55 + 37 + 35 + 20 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 87 + 15 + 53 + 13 + 24 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 84 + 89 + 19 + 29 + 71 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 78 + 16 + 44 + 33 + 66 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 85 + 66 + 94 + 69 + 85 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 51 + 11 + 94 + 12 + 83 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 61 + 18 + 51 + 16 + 76 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 99 + 77 + 52 + 74 + 60 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 92 + 33 + 82 + 18 + 72 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 99 + 48 + 74 + 25 + 43 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 96 + 37 + 11 + 76 + 33 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 50 + 54 + 57 + 33 + 30 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 87 + 63 + 16 + 68 + 41 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 17 + 28 + 82 + 81 + 16 =   - Answer,Task [Field-Piece_Rate_Num]: Piece Rate Task - 78 + 15 + 49 + 34 + 60 =   - Answer,"Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task
+
+
+
+For Task [Field-Other_Tournament_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers as before. 
+
+
+
+If Task [Field-Other_Tournament_Num] is the task that is randomly selected for your payment, then your payment will depend on your performance relative to another randomly-chosen participant.
+⮞ If you correctly solve more problems than the randomly-chosen participant, then you will receive $1 for each problem you correctly solve.
+
+⮞ If you correctly solve fewer problems than the randomly-chosen participant, then you will receive $0 for each problem you correctly solve.
+
+⮞ If you correctly solve the same number of problems as the randomly-chosen participant, then you will receive $0.50 for each problem you correctly solve.
+
+
+
+You will not be informed of how you performed on this task until the end of the experiment.
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.
+
+
+
+If this task is chosen for payment...","Please check your answer and try again.
+
+
+
+
+For Task [Field-Other_Tournament_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers as before. 
+
+
+
+If Task [Field-Other_Tournament_Num] is the task that is randomly selected for your payment, then your payment will depend on your performance relative to another randomly-chosen participant.
+
+⮞ If you correctly solve more problems than the randomly-chosen participant, then you will receive $1 for each problem you correctly solve.
+
+⮞ If you correctly solve fewer problems than the randomly-chosen participant, then you will receive $0 for each problem you correctly solve.
+
+⮞ If you correctly solve the same number of problems as the randomly-chosen participant, then you will receive $0.50 for each problem you correctly solve.
+
+
+
+You will not be informed of how you performed on this task until the end of the experiment.
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.
+
+
+
+If this task is chosen for payment...",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 40 + 77 + 25 + 28 + 84 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 57 + 88 + 62 + 36 + 19 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 70 + 27 + 56 + 90 + 31 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 31 + 72 + 40 + 71 + 23 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 40 + 45 + 65 + 34 + 65 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 78 + 33 + 15 + 22 + 21 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 34 + 96 + 86 + 26 + 30 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 13 + 17 + 55 + 87 + 86 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 29 + 41 + 41 + 45 + 53 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 54 + 49 + 23 + 14 + 19 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 39 + 98 + 17 + 98 + 12 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 80 + 38 + 65 + 62 + 79 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 53 + 83 + 43 + 73 + 27 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 24 + 86 + 38 + 11 + 52 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 89 + 88 + 86 + 76 + 83 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 18 + 54 + 82 + 51 + 98 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 29 + 55 + 55 + 62 + 97 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 59 + 11 + 88 + 81 + 99 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 51 + 10 + 78 + 32 + 40 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 72 + 28 + 88 + 77 + 74 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 90 + 67 + 71 + 96 + 38 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 63 + 72 + 72 + 72 + 41 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 25 + 67 + 55 + 81 + 95 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 25 + 97 + 71 + 78 + 66 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 17 + 12 + 70 + 81 + 17 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 70 + 39 + 63 + 62 + 10 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 39 + 73 + 68 + 52 + 66 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 15 + 37 + 60 + 62 + 98 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 87 + 76 + 99 + 72 + 60 =   - Answer,Task [Field-Other_Tournament_Num]: [Field-Other_Tournament_Name] Task - 77 + 18 + 10 + 58 + 92 =   - Answer,"Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+For Task [Field-Choice_Task_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers as before.
+
+
+
+You will be given a choice in how you wish to allocate earnings from this task. You may choose any combination of the previous payment schemes; that is, you may choose what percentage of your earnings will be determined by each of the payment schemes. Your combination must sum to 100%.
+
+
+
+For example, if you chose 40% for Piece-Rate and 60% for Tournament Rate, then 40% of your earnings will be paid piece-rate and 60% of your earnings will depend on your performance relative to another randomly-chosen participant's Task 2 performance.
+
+
+
+Example: Earnings per correct solution with 40% Piece-Rate, 60% Tournament Rate - Piece-Rate","Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+For Task [Field-Choice_Task_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers as before.
+
+
+
+You will be given a choice in how you wish to allocate earnings from this task. You may choose any combination of the previous payment schemes; that is, you may choose what percentage of your earnings will be determined by each of the payment schemes. Your combination must sum to 100%.
+
+
+
+For example, if you chose 40% for Piece-Rate and 60% for Tournament Rate, then 40% of your earnings will be paid piece-rate and 60% of your earnings will depend on your performance relative to another randomly-chosen participant's Task 2 performance.
+
+
+
+Example: Earnings per correct solution with 40% Piece-Rate, 60% Tournament Rate - Tournament","Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+Please choose how you wish to allocate your earnings for Task [Field-Choice_Task_Num]. To see the instructions again, click on the button below. If you have any questions before you continue, please raise your hand. - Piece-Rate","Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+Please choose how you wish to allocate your earnings for Task [Field-Choice_Task_Num]. To see the instructions again, click on the button below. If you have any questions before you continue, please raise your hand. - Tournament",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Task [Field-Choice_Task_Num]: Choice Task - 58 + 81 + 56 + 99 + 21 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 89 + 55 + 88 + 60 + 87 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 82 + 54 + 70 + 52 + 37 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 30 + 69 + 86 + 56 + 99 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 33 + 25 + 95 + 31 + 30 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 77 + 41 + 85 + 45 + 63 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 16 + 86 + 17 + 48 + 88 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 75 + 10 + 69 + 27 + 42 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 14 + 85 + 49 + 33 + 26 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 69 + 67 + 83 + 39 + 56 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 52 + 74 + 70 + 70 + 91 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 54 + 82 + 76 + 80 + 86 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 23 + 28 + 89 + 88 + 63 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 38 + 94 + 13 + 57 + 93 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 46 + 39 + 65 + 99 + 13 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 80 + 12 + 71 + 44 + 27 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 94 + 24 + 11 + 99 + 48 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 61 + 63 + 94 + 61 + 15 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 49 + 60 + 55 + 25 + 77 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 85 + 63 + 80 + 36 + 31 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 98 + 94 + 47 + 64 + 21 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 76 + 55 + 98 + 18 + 31 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 68 + 83 + 58 + 92 + 31 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 72 + 56 + 73 + 18 + 94 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 50 + 69 + 40 + 48 + 23 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 34 + 46 + 22 + 93 + 67 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 91 + 26 + 44 + 26 + 63 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 89 + 55 + 95 + 10 + 24 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 44 + 63 + 19 + 76 + 32 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 80 + 21 + 94 + 98 + 24 =   - Answer,"Task [Field-Self_Tournament_Num]: Self-Tournament Task
+
+
+
+For Task [Field-Self_Tournament_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers as before. 
+
+
+
+If Task [Field-Self_Tournament_Num] is the task that is randomly selected for your payment, then your payment will depend on your performance relative to your own performance in Task 1.
+
+⮞ If you correctly solve more problems than you did in Task 1, then you will receive $1 for each problem you correctly solve.
+
+⮞ If you correctly solve fewer problems than you did in Task 1, then you will receive $0 for each problem you correctly solve.
+
+⮞ If you correctly solve the same number of problems as you did in Task 1, then you will receive $0.50 for each problem you correctly solve.
+
+
+
+You will not be informed of how you performed on this task until the end of the experiment.
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Please check your answer and try again.
+
+
+For Task [Field-Self_Tournament_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers as before. 
+
+
+
+If Task [Field-Self_Tournament_Num] is the task that is randomly selected for your payment, then your payment will depend on your performance relative to your own performance in Task 1.
+
+⮞ If you correctly solve more problems than you did in Task 1, then you will receive $1 for each problem you correctly solve.
+
+⮞ If you correctly solve fewer problems than you did in Task 1, then you will receive $0 for each problem you correctly solve.
+
+⮞ If you correctly solve the same number of problems as you did in Task 1, then you will receive $0.50 for each problem you correctly solve.
+
+
+
+You will not be informed of how you performed on this task until the end of the experiment.
+
+
+
+Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 31 + 16 + 68 + 33 + 97 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 84 + 88 + 69 + 17 + 33 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 24 + 41 + 80 + 18 + 31 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 86 + 71 + 23 + 24 + 54 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 93 + 28 + 20 + 44 + 11 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 14 + 56 + 57 + 61 + 21 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 77 + 24 + 93 + 66 + 45 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 73 + 79 + 16 + 17 + 27 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 28 + 70 + 90 + 66 + 21 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 12 + 42 + 30 + 64 + 15 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 47 + 78 + 65 + 82 + 31 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 82 + 30 + 12 + 82 + 49 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 60 + 19 + 62 + 70 + 50 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 22 + 97 + 58 + 62 + 62 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 83 + 95 + 65 + 29 + 16 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 59 + 19 + 46 + 67 + 83 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 27 + 74 + 48 + 45 + 24 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 58 + 27 + 80 + 98 + 40 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 35 + 42 + 80 + 10 + 96 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 81 + 71 + 79 + 47 + 28 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 25 + 84 + 93 + 66 + 17 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 46 + 80 + 93 + 72 + 36 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 26 + 45 + 23 + 32 + 54 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 11 + 68 + 36 + 43 + 98 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 12 + 93 + 51 + 49 + 47 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 54 + 37 + 70 + 45 + 11 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 90 + 54 + 30 + 47 + 46 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 58 + 56 + 82 + 59 + 59 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 22 + 23 + 13 + 99 + 33 =   - Answer,Task [Field-Self_Tournament_Num]: Self-Tournament Task - 38 + 83 + 31 + 92 + 28 =   - Answer,"Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+For Task [Field-Choice_Task_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers as before.
+
+
+
+You will be given a choice in how you wish to allocate earnings from this task. You may choose any combination of the previous payment schemes; that is, you may choose what percentage of your earnings will be determined by each of the payment schemes. Your combination must sum to 100%.
+
+
+
+For example, if you chose 40% for Piece-Rate, 30% for Other-Tournament Rate, and 30% for Self-Tournamen Rate, then 40% of your earnings will be paid piece-rate, 30% of your earnings will depend on your performance relative to another randomly-chosen participant's Task 2 performance, and 30% of your earnings will depend on your performance relative to your own Task 2 performance.
+
+
+
+Example: Earnings per correct solution with 60% Piece-Rate, 20% Other-Tournament Rate, and 20% Self-Tournament Rate. - Piece-Rate","Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+For Task [Field-Choice_Task_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers as before.
+
+
+
+You will be given a choice in how you wish to allocate earnings from this task. You may choose any combination of the previous payment schemes; that is, you may choose what percentage of your earnings will be determined by each of the payment schemes. Your combination must sum to 100%.
+
+
+
+For example, if you chose 40% for Piece-Rate, 30% for Other-Tournament Rate, and 30% for Self-Tournamen Rate, then 40% of your earnings will be paid piece-rate, 30% of your earnings will depend on your performance relative to another randomly-chosen participant's Task 2 performance, and 30% of your earnings will depend on your performance relative to your own Task 2 performance.
+
+
+
+Example: Earnings per correct solution with 60% Piece-Rate, 20% Other-Tournament Rate, and 20% Self-Tournament Rate. - Other-Tournament","Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+For Task [Field-Choice_Task_Num], you will be asked to calculate the sums of sets of five randomly chosen two-digit numbers as before.
+
+
+
+You will be given a choice in how you wish to allocate earnings from this task. You may choose any combination of the previous payment schemes; that is, you may choose what percentage of your earnings will be determined by each of the payment schemes. Your combination must sum to 100%.
+
+
+
+For example, if you chose 40% for Piece-Rate, 30% for Other-Tournament Rate, and 30% for Self-Tournamen Rate, then 40% of your earnings will be paid piece-rate, 30% of your earnings will depend on your performance relative to another randomly-chosen participant's Task 2 performance, and 30% of your earnings will depend on your performance relative to your own Task 2 performance.
+
+
+
+Example: Earnings per correct solution with 60% Piece-Rate, 20% Other-Tournament Rate, and 20% Self-Tournament Rate. - Self-Tournament","Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Comprehension Question
+
+According to the instructions above, which statement below is true? Select only one answer.","Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+Please choose how you wish to allocate your earnings for Task [Field-Choice_Task_Num]. To see the instructions again, click on the button below. If you have any questions before you continue, please raise your hand. - Piece-Rate","Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+Please choose how you wish to allocate your earnings for Task [Field-Choice_Task_Num]. To see the instructions again, click on the button below. If you have any questions before you continue, please raise your hand. - Other-Tournament","Task [Field-Choice_Task_Num]: Choice Task
+
+
+
+Please choose how you wish to allocate your earnings for Task [Field-Choice_Task_Num]. To see the instructions again, click on the button below. If you have any questions before you continue, please raise your hand. - Self-Tournament",Timing - First Click,Timing - Last Click,Timing - Page Submit,Timing - Click Count,Task [Field-Choice_Task_Num]: Choice Task - 58 + 81 + 56 + 99 + 21 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 89 + 55 + 88 + 60 + 87 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 82 + 54 + 70 + 52 + 37 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 30 + 69 + 86 + 56 + 99 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 33 + 25 + 95 + 31 + 30 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 77 + 41 + 85 + 45 + 63 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 16 + 86 + 17 + 48 + 88 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 75 + 10 + 69 + 27 + 42 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 14 + 85 + 49 + 33 + 26 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 69 + 67 + 83 + 39 + 56 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 52 + 74 + 70 + 70 + 91 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 54 + 82 + 76 + 80 + 86 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 23 + 28 + 89 + 88 + 63 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 38 + 94 + 13 + 57 + 93 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 46 + 39 + 65 + 99 + 13 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 80 + 12 + 71 + 44 + 27 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 94 + 24 + 11 + 99 + 48 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 61 + 63 + 94 + 61 + 15 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 49 + 60 + 55 + 25 + 77 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 85 + 63 + 80 + 36 + 31 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 98 + 94 + 47 + 64 + 21 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 76 + 55 + 98 + 18 + 31 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 68 + 83 + 58 + 92 + 31 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 72 + 56 + 73 + 18 + 94 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 50 + 69 + 40 + 48 + 23 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 34 + 46 + 22 + 93 + 67 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 91 + 26 + 44 + 26 + 63 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 89 + 55 + 95 + 10 + 24 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 44 + 63 + 19 + 76 + 32 =   - Answer,Task [Field-Choice_Task_Num]: Choice Task - 80 + 21 + 94 + 98 + 24 =   - Answer,"How many problems do you think you solved correctly in the final task (""Choice Task"")? - Problems solved correctly","How many problems do you think the person you were matched with in Task [Field-Choice_Task_Num] (""Choice Task"") solved correctly in the [Field-Other_Tournament_Num] task (""[Field-Other_Tournament_Name]"")? - Problems solved correctly","On average, how many problems do you think the other participants solved correctly in the first task (""Piece Rate"")? - Problems solved correctly",How many problems do you think you solved correctly in the [Field-Other_Tournament_Name] task? - Problems solved correctly,How many problems do you think you solved correctly in the Self-Tournament task? - Problems solved correctly,Are you a student?,"If so, what is your college major?",Have you ever participated in an ICES experiment before?,Please indicate your gender.,Please specify your ethnicity:,What is your age?,"In general, how willing are you to... - ...take risks?","In general, how willing are you to... - ...compete with others?","In general, how willing are you to... - ...compete with yourself?","How much do you agree with the following statements? - ""I am a socially-oriented person.""","How much do you agree with the following statements? - ""I am a generous person.""","How much do you agree with the following statements? - ""I am a trustworthy person.""","How much do you agree with the following statements? - ""I am a cooperative person.""","On average, how competitive is the environment of your school and/or workplace? - Environmental Competitiveness","Were there any parts of the experiment that confused you? If so, please explain:",Do you have any other comments?,Showup_Fee,Comprehension_Payment,Fixed_Payment,t1_total_correct,t2_total_correct,t3_total_correct,t4_total_correct,perc_piece_rate,perc_other_tourn,perc_self_tourn,t1_time_remaining,t2_time_remaining,t3_time_remaining,t4_time_remaining,Treatment_Group,Num_Tasks,Num_Tasks_Long,Piece_Rate_Num,Other_Tournament_Num,Self_Tournament_Num,Choice_Task_Num,Other_Tournament_Name,Prev_Tasks,Comprehension_Task_PR_Correct,Comprehension_Task_OT_Correct,Comprehension_Task_Choice_Group1_Correct,Comprehension_Task_ST_Correct,Comprehension_Task_Choice_Group2_Correct
+"{""ImportId"":""startDate"",""timeZone"":""America/New_York""}","{""ImportId"":""endDate"",""timeZone"":""America/New_York""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/New_York""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID127_TEXT""}","{""ImportId"":""QID62_1_1""}","{""ImportId"":""QID61""}","{""ImportId"":""QID98""}","{""ImportId"":""QID44_FIRST_CLICK""}","{""ImportId"":""QID44_LAST_CLICK""}","{""ImportId"":""QID44_PAGE_SUBMIT""}","{""ImportId"":""QID44_CLICK_COUNT""}","{""ImportId"":""QID65_1_1""}","{""ImportId"":""QID65_2_1""}","{""ImportId"":""QID65_3_1""}","{""ImportId"":""QID65_4_1""}","{""ImportId"":""QID65_5_1""}","{""ImportId"":""QID65_6_1""}","{""ImportId"":""QID65_7_1""}","{""ImportId"":""QID65_8_1""}","{""ImportId"":""QID65_9_1""}","{""ImportId"":""QID65_10_1""}","{""ImportId"":""QID65_11_1""}","{""ImportId"":""QID65_12_1""}","{""ImportId"":""QID65_13_1""}","{""ImportId"":""QID65_14_1""}","{""ImportId"":""QID65_15_1""}","{""ImportId"":""QID65_16_1""}","{""ImportId"":""QID65_17_1""}","{""ImportId"":""QID65_18_1""}","{""ImportId"":""QID65_19_1""}","{""ImportId"":""QID65_20_1""}","{""ImportId"":""QID65_21_1""}","{""ImportId"":""QID65_22_1""}","{""ImportId"":""QID65_23_1""}","{""ImportId"":""QID65_24_1""}","{""ImportId"":""QID65_25_1""}","{""ImportId"":""QID65_26_1""}","{""ImportId"":""QID65_27_1""}","{""ImportId"":""QID65_28_1""}","{""ImportId"":""QID65_29_1""}","{""ImportId"":""QID65_30_1""}","{""ImportId"":""QID7""}","{""ImportId"":""QID101""}","{""ImportId"":""QID51_FIRST_CLICK""}","{""ImportId"":""QID51_LAST_CLICK""}","{""ImportId"":""QID51_PAGE_SUBMIT""}","{""ImportId"":""QID51_CLICK_COUNT""}","{""ImportId"":""QID66_1_1""}","{""ImportId"":""QID66_2_1""}","{""ImportId"":""QID66_3_1""}","{""ImportId"":""QID66_4_1""}","{""ImportId"":""QID66_5_1""}","{""ImportId"":""QID66_6_1""}","{""ImportId"":""QID66_7_1""}","{""ImportId"":""QID66_8_1""}","{""ImportId"":""QID66_9_1""}","{""ImportId"":""QID66_10_1""}","{""ImportId"":""QID66_11_1""}","{""ImportId"":""QID66_12_1""}","{""ImportId"":""QID66_13_1""}","{""ImportId"":""QID66_14_1""}","{""ImportId"":""QID66_15_1""}","{""ImportId"":""QID66_16_1""}","{""ImportId"":""QID66_17_1""}","{""ImportId"":""QID66_18_1""}","{""ImportId"":""QID66_19_1""}","{""ImportId"":""QID66_20_1""}","{""ImportId"":""QID66_21_1""}","{""ImportId"":""QID66_22_1""}","{""ImportId"":""QID66_23_1""}","{""ImportId"":""QID66_24_1""}","{""ImportId"":""QID66_25_1""}","{""ImportId"":""QID66_26_1""}","{""ImportId"":""QID66_27_1""}","{""ImportId"":""QID66_28_1""}","{""ImportId"":""QID66_29_1""}","{""ImportId"":""QID66_30_1""}","{""ImportId"":""QID119_1""}","{""ImportId"":""QID119_2""}","{""ImportId"":""QID104""}","{""ImportId"":""QID105""}","{""ImportId"":""QID14_1""}","{""ImportId"":""QID14_2""}","{""ImportId"":""QID53_FIRST_CLICK""}","{""ImportId"":""QID53_LAST_CLICK""}","{""ImportId"":""QID53_PAGE_SUBMIT""}","{""ImportId"":""QID53_CLICK_COUNT""}","{""ImportId"":""QID67_1_1""}","{""ImportId"":""QID67_2_1""}","{""ImportId"":""QID67_3_1""}","{""ImportId"":""QID67_4_1""}","{""ImportId"":""QID67_5_1""}","{""ImportId"":""QID67_6_1""}","{""ImportId"":""QID67_7_1""}","{""ImportId"":""QID67_8_1""}","{""ImportId"":""QID67_9_1""}","{""ImportId"":""QID67_10_1""}","{""ImportId"":""QID67_11_1""}","{""ImportId"":""QID67_12_1""}","{""ImportId"":""QID67_13_1""}","{""ImportId"":""QID67_14_1""}","{""ImportId"":""QID67_15_1""}","{""ImportId"":""QID67_16_1""}","{""ImportId"":""QID67_17_1""}","{""ImportId"":""QID67_18_1""}","{""ImportId"":""QID67_19_1""}","{""ImportId"":""QID67_20_1""}","{""ImportId"":""QID67_21_1""}","{""ImportId"":""QID67_22_1""}","{""ImportId"":""QID67_23_1""}","{""ImportId"":""QID67_24_1""}","{""ImportId"":""QID67_25_1""}","{""ImportId"":""QID67_26_1""}","{""ImportId"":""QID67_27_1""}","{""ImportId"":""QID67_28_1""}","{""ImportId"":""QID67_29_1""}","{""ImportId"":""QID67_30_1""}","{""ImportId"":""QID10""}","{""ImportId"":""QID110""}","{""ImportId"":""QID57_FIRST_CLICK""}","{""ImportId"":""QID57_LAST_CLICK""}","{""ImportId"":""QID57_PAGE_SUBMIT""}","{""ImportId"":""QID57_CLICK_COUNT""}","{""ImportId"":""QID70_1_1""}","{""ImportId"":""QID70_2_1""}","{""ImportId"":""QID70_3_1""}","{""ImportId"":""QID70_4_1""}","{""ImportId"":""QID70_5_1""}","{""ImportId"":""QID70_6_1""}","{""ImportId"":""QID70_7_1""}","{""ImportId"":""QID70_8_1""}","{""ImportId"":""QID70_9_1""}","{""ImportId"":""QID70_10_1""}","{""ImportId"":""QID70_11_1""}","{""ImportId"":""QID70_12_1""}","{""ImportId"":""QID70_13_1""}","{""ImportId"":""QID70_14_1""}","{""ImportId"":""QID70_15_1""}","{""ImportId"":""QID70_16_1""}","{""ImportId"":""QID70_17_1""}","{""ImportId"":""QID70_18_1""}","{""ImportId"":""QID70_19_1""}","{""ImportId"":""QID70_20_1""}","{""ImportId"":""QID70_21_1""}","{""ImportId"":""QID70_22_1""}","{""ImportId"":""QID70_23_1""}","{""ImportId"":""QID70_24_1""}","{""ImportId"":""QID70_25_1""}","{""ImportId"":""QID70_26_1""}","{""ImportId"":""QID70_27_1""}","{""ImportId"":""QID70_28_1""}","{""ImportId"":""QID70_29_1""}","{""ImportId"":""QID70_30_1""}","{""ImportId"":""QID115_1""}","{""ImportId"":""QID115_2""}","{""ImportId"":""QID115_3""}","{""ImportId"":""QID116""}","{""ImportId"":""QID113""}","{""ImportId"":""QID11_1""}","{""ImportId"":""QID11_2""}","{""ImportId"":""QID11_3""}","{""ImportId"":""QID58_FIRST_CLICK""}","{""ImportId"":""QID58_LAST_CLICK""}","{""ImportId"":""QID58_PAGE_SUBMIT""}","{""ImportId"":""QID58_CLICK_COUNT""}","{""ImportId"":""QID69_1_1""}","{""ImportId"":""QID69_2_1""}","{""ImportId"":""QID69_3_1""}","{""ImportId"":""QID69_4_1""}","{""ImportId"":""QID69_5_1""}","{""ImportId"":""QID69_6_1""}","{""ImportId"":""QID69_7_1""}","{""ImportId"":""QID69_8_1""}","{""ImportId"":""QID69_9_1""}","{""ImportId"":""QID69_10_1""}","{""ImportId"":""QID69_11_1""}","{""ImportId"":""QID69_12_1""}","{""ImportId"":""QID69_13_1""}","{""ImportId"":""QID69_14_1""}","{""ImportId"":""QID69_15_1""}","{""ImportId"":""QID69_16_1""}","{""ImportId"":""QID69_17_1""}","{""ImportId"":""QID69_18_1""}","{""ImportId"":""QID69_19_1""}","{""ImportId"":""QID69_20_1""}","{""ImportId"":""QID69_21_1""}","{""ImportId"":""QID69_22_1""}","{""ImportId"":""QID69_23_1""}","{""ImportId"":""QID69_24_1""}","{""ImportId"":""QID69_25_1""}","{""ImportId"":""QID69_26_1""}","{""ImportId"":""QID69_27_1""}","{""ImportId"":""QID69_28_1""}","{""ImportId"":""QID69_29_1""}","{""ImportId"":""QID69_30_1""}","{""ImportId"":""QID20_1""}","{""ImportId"":""QID38_1""}","{""ImportId"":""QID39_1""}","{""ImportId"":""QID72_1""}","{""ImportId"":""QID73_1""}","{""ImportId"":""QID16""}","{""ImportId"":""QID27_TEXT""}","{""ImportId"":""QID17""}","{""ImportId"":""QID23""}","{""ImportId"":""QID29""}","{""ImportId"":""QID24_TEXT""}","{""ImportId"":""QID25_1""}","{""ImportId"":""QID25_2""}","{""ImportId"":""QID25_3""}","{""ImportId"":""QID26_1""}","{""ImportId"":""QID26_2""}","{""ImportId"":""QID26_3""}","{""ImportId"":""QID26_4""}","{""ImportId"":""QID28_1""}","{""ImportId"":""QID30_TEXT""}","{""ImportId"":""QID31_TEXT""}","{""ImportId"":""Showup_Fee""}","{""ImportId"":""Comprehension_Payment""}","{""ImportId"":""Fixed_Payment""}","{""ImportId"":""t1_total_correct""}","{""ImportId"":""t2_total_correct""}","{""ImportId"":""t3_total_correct""}","{""ImportId"":""t4_total_correct""}","{""ImportId"":""perc_piece_rate""}","{""ImportId"":""perc_other_tourn""}","{""ImportId"":""perc_self_tourn""}","{""ImportId"":""t1_time_remaining""}","{""ImportId"":""t2_time_remaining""}","{""ImportId"":""t3_time_remaining""}","{""ImportId"":""t4_time_remaining""}","{""ImportId"":""Treatment_Group""}","{""ImportId"":""Num_Tasks""}","{""ImportId"":""Num_Tasks_Long""}","{""ImportId"":""Piece_Rate_Num""}","{""ImportId"":""Other_Tournament_Num""}","{""ImportId"":""Self_Tournament_Num""}","{""ImportId"":""Choice_Task_Num""}","{""ImportId"":""Other_Tournament_Name""}","{""ImportId"":""Prev_Tasks""}","{""ImportId"":""Comprehension_Task_PR_Correct""}","{""ImportId"":""Comprehension_Task_OT_Correct""}","{""ImportId"":""Comprehension_Task_Choice_Group1_Correct""}","{""ImportId"":""Comprehension_Task_ST_Correct""}","{""ImportId"":""Comprehension_Task_Choice_Group2_Correct""}"
+2024-09-27 19:56:08,2024-09-27 19:58:43,IP Address,149.88.108.5,100,154,True,2024-09-27 19:58:44,R_1RUFVsyQJ9XS0Pn,,,,,42.3562,-71.0631,anonymous,EN,G1,257,You will earn $0.50 for each problem you solve correctly.,,0.902,48.967,60.996,5,334,192,220,235,332,321,220,422,,,,,,,,,,,,,,,,,,,,,,,"You will earn $0 or $1 for each problem you correctly solve, depending on if you solve more or fewer than another participant.",,1.982,7.993,8.594,2,254,262,274,237,249,169,,,,,,,,,,,,,,,,,,,,,,,,,40,60,"If you chose 50% Piece-Rate and 50% Tournament Rate, your earnings per correct solution could be $0, $0.50, or $1.00.","If you chose 50% Piece-Rate and 50% Tournament Rate, your earnings per correct solution could be $0, $0.50, or $1.00.",100,0,0.777,17.821,18.989,2,315,379,295,340,214,311,255,233,207,314,354,12,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,8,9,,Yes,Econ,No,Male,Hispanic/Latino,22,2,2,2,2,2,2,2,2,,,$10,$0.50,-1,6,6,-1,9,100,0,0,180,180,180,180,1,3,three,1,2,-1,3,Tournament,two,1,1,,,
+2024-09-27 19:59:30,2024-09-27 20:01:15,IP Address,149.88.108.5,100,105,True,2024-09-27 20:01:16,R_6IYJFjWlgtlmP4x,,,,,42.3562,-71.0631,anonymous,EN,G2,257,You will earn $1 for each problem you solve correctly.,You will earn $0.50 for each problem you solve correctly.,3.801,10.385,11.877,3,334,0,0,16,89,8,94,65,41,65,16598,98,,645615,,,,,,,,,,,,,,,,,"You will earn $0 or $1 for each problem you correctly solve, depending on if you solve more or fewer than another participant.",,0.79,10.004,10.617,2,254,262,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,60,"If you chose 50% Piece-Rate and 50% Tournament Rate, your earnings per correct solution could be $0.25, $0.50, or $0.75.",,0,100,0.792,7.121,7.571,2,245,291,194,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,25,19,,Yes,Math,Yes,Male,Black/African American,78,2,2,2,3,4,4,4,5,,,$10,$0.50,-1,1,2,-1,0,0,100,0,180,180,180,180,1,3,three,1,2,-1,3,Tournament,two,1,1,1,,
+2024-10-04 14:28:06,2024-10-04 14:52:01,IP Address,129.174.182.76,100,1434,True,2024-10-04 14:52:02,R_5J9nMOPdozqxFi0,,,,,38.8476,-77.3281,anonymous,EN,G11111111,257,You will earn $0.50 for each problem you solve correctly.,,1.282,1.282,180.038,1,145,274,324,235,332,321,220,422,290,242,,,,,,,,,,,,,,,,,,,,,"You will earn $0 or $1 for each problem you correctly solve, depending on if you solve more or fewer than another participant.",,3.978,6.178,165.262,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,100,0,"If you chose 50% Piece-Rate and 50% Tournament Rate, your earnings per correct solution could be $0, $0.50, or $1.00.","If you chose 50% Piece-Rate and 50% Tournament Rate, your earnings per correct solution could be $0, $0.50, or $1.00.",77,23,1.231,1.231,26.87,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,6,2,16,,Yes,no,Unsure,Male,"Hispanic/Latino,White/Caucasian",46,10,1,10,10,10,10,10,10,no,no,$10,$0.50,-1,9,0,-1,-1,77,23,0,180,180,180,180,1,3,three,1,2,-1,3,Tournament,two,1,1,,,
+2024-10-04 14:38:39,2024-10-04 14:59:28,IP Address,129.174.232.107,100,1249,True,2024-10-04 14:59:29,R_6TTeJ4VePA3KFJc,,,,,39.0503,-77.3909,anonymous,EN,G6666,257,You will earn $0.50 for each problem you solve correctly.,,4.808,38.022,55.172,13,123,123,123,,,,,,,,,,,,,,,,,,,,,,,,1235,54658,254,154,"You will earn $0 or $1 for each problem you correctly solve, depending on if you solve more or fewer than another participant.",,3.805,6.684,17.181,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,100,"If you chose 50% Piece-Rate and 50% Tournament Rate, your earnings per correct solution could be $0, $0.50, or $1.00.","If you chose 50% Piece-Rate and 50% Tournament Rate, your earnings per correct solution could be $0.25, $0.50, or $0.75.",5,95,1.178,1.178,40.302,1,315,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,21,1,,Yes,Economics,No,Male,Other,101,3,2,10,8,5,10,10,1,no,no,$10,$0.50,-1,0,-1,-1,1,5,95,0,180,180,180,180,1,3,three,1,2,-1,3,Tournament,two,1,1,1,,
+2024-10-04 14:44:08,2024-10-04 15:02:12,IP Address,129.174.182.97,100,1084,True,2024-10-04 15:02:12,R_53fq1LR2KCVI5I3,,,,,38.8476,-77.3281,anonymous,EN,G123456789,257,You will earn $0.50 for each problem you solve correctly.,,3.15,114.698,124.287,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,You will earn $0.50 for each problem you correctly solve.,You will earn $0.50 for each problem you correctly solve.,0,0,3.618,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"In this task, you will earn $0.50 for each problem you correctly solve.","In this task, you will earn $0.50 for each problem you correctly solve.",0,0,14.449,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,0,0,"If you chose 100% Piece-Rate, your earnings would depend on your relative performance.","If you chose 50% Other-Tournament Rate and 50% Self-Tournament Rate, your earnings per correct solution could be $0, $0.50, or $1.00.",30,65,5,12.626,178.247,191.051,14,7,32,7,7,7,7,7,77,7,7,7,77,55,7,77,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,20,9,30,9,22,Yes,Swahili,Yes,Male,Hispanic/Latino,670,2,6,4,8,3,6,5,8,,,$10,$0.50,-1,-1,-1,-1,0,30,65,5,180,180,180,180,2,4,four,1,2,3,4,Other-Tournament,three,1,,,,1
+2024-10-04 14:35:28,2024-10-04 15:03:53,IP Address,129.174.232.251,100,1705,True,2024-10-04 15:03:53,R_5qOpPZEVRt0OPAE,,,,,39.0503,-77.3909,anonymous,EN,G9876,257,You will earn $0.50 for each problem you solve correctly.,,2.935,126.148,179.978,7,334,274,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"You will earn $0 or $1 for each problem you correctly solve, depending on if you solve more or fewer than another participant.",,2.783,90.85,179.98,19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"In this task, you earn $0 or $1 for each problem you correctly solve, depending on if you solve more or fewer than you did before.",,1.252,167.21,179.975,16,245,301,228,258,196,204,305,212,,,,,,,,,,,,,,,,,,,,,,,0,0,100,"If you chose 50% Other-Tournament Rate and 50% Self-Tournament Rate, your earnings per correct solution could be $0, $0.50, or $1.00.",,0,0,100,24.839,126.385,179.963,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,5,4,0,5,Yes,Physical Education,No,Male,White/Caucasian,8,10,10,0,0,0,0,0,10,,,$10,$0.50,-1,2,0,5,-1,0,0,100,180,180,180,180,2,4,four,1,3,2,4,Other-Tournament,three,1,1,,1,1
+2024-10-04 14:48:07,2024-10-04 15:04:59,IP Address,129.174.232.236,100,1011,True,2024-10-04 15:04:59,R_3odyEN4UQnqsQhb,,,,,39.0503,-77.3909,anonymous,EN,G7777,257,You will earn $0.50 for each problem you solve correctly.,,2.013,174.174,179.995,8,334,274,324,235,332,321,220,,,,,,,,,,,,,,,,,,,,,,,,"You will earn $0 or $1 for each problem you correctly solve, depending on if you solve more or fewer than another participant.",,2.189,161.989,179.978,12,254,262,274,237,249,169,272,258,209,159,364,3,,,,,,,,,,,,,,,,,,,0,100,"If you chose 50% Piece-Rate and 50% Tournament Rate, your earnings per correct solution could be $0.25, $0.50, or $0.75.",,15,85,1.884,177.307,179.986,15,315,379,295,340,214,311,257,223,208,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,6,6,6,,Yes,Economicw,Yes,Male,Asian/Pacific Islander,29,4,8,8,6,7,5,10,4,,,$10,$0.50,-1,7,10,-1,7,15,85,0,180,180,180,180,1,3,three,1,2,-1,3,Tournament,two,1,1,1,,
